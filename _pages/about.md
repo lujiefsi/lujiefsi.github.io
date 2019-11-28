@@ -12,4 +12,4 @@ I am a Ph.D. student working with Prof. Lian Li in  The Institute of Computing T
 
 News
 ======
-TBD
+No news is good news
