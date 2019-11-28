@@ -3,6 +3,6 @@ title: "CrashTuner: detecting crash-recovery bugs in cloud systems via meta-info
 collection: publications
 permalink: /publication/CrashTuner
 date: 2019-10-27
-venue: 'SOSP19'
+venue: 'SOSP'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
