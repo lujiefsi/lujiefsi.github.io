@@ -8,6 +8,4 @@ date: 2019-11-22
 location: "HangZhou ZheJiang"
 ---
 
-[More information here](http://exampleurl.com)
-
 Talk about CrashTuner In Chinese.[Download slides here](http://lujiefsi.github.io/files/talk/nasac2019.pdf)
