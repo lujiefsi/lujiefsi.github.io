@@ -8,4 +8,4 @@ date: 2019-02-24
 location: "HangZhou, ZheJiang, China"
 ---
 
-Talk about NCBugs.[Download slides here](http://lujiefsi.github.io/files/talk/NCBugs.pdf).
+Talk about NCBugs.[Download slides here](https://raw.githubusercontent.com/lujiefsi/lujiefsi.github.io/master/files/talks/NCBugs.pdf).
