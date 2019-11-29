@@ -8,4 +8,4 @@ date: 2019-10-27
 location: "Deerhurst Resort, Huntsville, Ontario, Canada"
 ---
 
-Task about CrashTuner at SOSP2019.[Download slides here](http://lujiefsi.github.io/files/talk/CrashTuner .pdf)
+Task about CrashTuner at SOSP2019.[Download slides here](http://lujiefsi.github.io/files/talk/CrashTuner .pdf).
