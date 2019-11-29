@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/CloudRaid
 date: 2018-10-01
 venue: 'ESEC/FSE'
-paperurl: 'http://lujiefsi.github.io/files/CloudRaid.pdf'
+paperurl: 'http://lujiefsi.github.io/files/papers/CloudRaid.pdf'
 ---
