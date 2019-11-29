@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/CrashTuner
 date: 2019-10-01
 venue: 'SOSP'
-paperurl: 'http://academicpages.github.io/files/CrashTuner.pdf'
+paperurl: 'http://lujiefsi.github.io/files/CrashTuner.pdf'
 ---
