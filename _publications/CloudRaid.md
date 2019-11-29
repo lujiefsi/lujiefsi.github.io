@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/CloudRaid
 date: 2018-10-01
 venue: 'ESEC/FSE'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/CloudRaid.pdf'
 ---
