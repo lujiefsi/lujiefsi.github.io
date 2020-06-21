@@ -16,17 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Internship
+  * Alibaba PAI group
 
 Skills
 ======
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* swim
 
 Publications
 ======
