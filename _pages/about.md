@@ -12,4 +12,4 @@ I am an Assistant Professor of  The Institute of Computing Technology of the Chi
 
 News
 ======
-* Two papers are accepted by CGO2021!
+
