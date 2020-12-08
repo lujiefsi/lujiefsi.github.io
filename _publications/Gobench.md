@@ -1,8 +1,8 @@
 ---
-title: "CloudRaid: hunting concurrency bugs in the cloud via log-mining"
+title: "GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs"
 collection: publications
-permalink: /publication/CloudRaid
-date: 2018-10-01
-venue: 'ESEC/FSE'
-paperurl: 'http://lujiefsi.github.io/files/papers/CloudRaid.pdf'
+permalink: /publication/GoBench
+date: 2021-02-27
+venue: 'CGO'
+paperurl: 'http://lujiefsi.github.io/files/papers/GoBench.pdf'
 ---
