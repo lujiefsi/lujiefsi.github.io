@@ -13,4 +13,4 @@ I am an Assistant Professor of  The Institute of Computing Technology of the Chi
 News
 ======
 
-<font color=red>我是红色</font>
+<font color=#008000>pending</font>
