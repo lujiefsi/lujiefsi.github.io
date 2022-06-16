@@ -1,8 +1,8 @@
 ---
-title: "AgamottoEye:  Recovering  Request  Flow  for  Cloud  Systems  via  Log  Analysis"
+title: "Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics"
 collection: publications
-permalink: /publication/AgamottoEye
-date: 2019-07-01
-venue: 'Journal of Computer Science Research'
-paperurl: 'http://lujiefsi.github.io/files/papers/AgamottoEye.pdf'
+permalink: /publication/Generic
+date: 2022-11-14
+venue: 'ESEC/FSE 2022'
+paperurl: 'http://lujiefsi.github.io/files/papers/Generic.pdf'
 ---
