@@ -5,4 +5,5 @@ permalink: /publication/MPChecker
 date: 2022-07-16
 venue: 'ACM CCS'
 paperurl: 'http://lujiefsi.github.io/files/papers/MPChecker.pdf'
+authors: 'Jie Lu, Haofeng Li, Chen Liu, Lian li, Kun Cheng'
 ---
