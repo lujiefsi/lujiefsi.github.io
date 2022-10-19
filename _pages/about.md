@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of  The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software testing, distributed system, program analysis, and machine learning.
+I am an  Associate Professor of  The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software testing, distributed system, program analysis, and machine learning.
 
 News
 ======
