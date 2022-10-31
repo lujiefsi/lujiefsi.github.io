@@ -6,7 +6,9 @@ author_profile: true
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
 <br>
 <br>
-<b>[Young Scientists Fund of the National Natural Science Foundation of China]([http://mrsandeshbhat.github.io/publications/IDETCthao](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05))</b> <br> 
+<b>[Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/)</b> 
+<br> 
+<i><b>Jie Lu<b><i>
 <b>2023-2025</b>.
 <br>
 <br>
