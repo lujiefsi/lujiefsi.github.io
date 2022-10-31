@@ -13,7 +13,14 @@ Research Funding (Jie Lu) <br>
 <b>2023-2025</b>
 <br>
 <br>
-<b>[CCF-Huawei Innovation Research Plan](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2022-02-28/756280.shtml)</b> 
+<b>[CCF-Huawei Innovation Research Plan](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2022-02-28/756280.shtml)</b> 
+<br> 
+<i><b>Jie Lu<b><i>
+<br>
+<b>2021-2022</b>
+<br>
+<br>
+<b>[CCF-Ant Research Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/my/2022-02-28/756304.shtml)</b> 
 <br> 
 <i><b>Jie Lu<b><i>
 <br>
