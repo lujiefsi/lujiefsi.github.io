@@ -14,9 +14,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+  
+  - title: "Funding"
+    url: /funding/  
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
