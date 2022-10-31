@@ -27,3 +27,17 @@ Research Funding (Jie Lu) <br>
 <b>2021-2022</b>
 <br>
 <br>
+<b>[特别研究助理资助]()</b> 
+<br> 
+<i><b>Jie Lu<b><i>
+<br>
+<b>2020-2022</b>
+<br>
+<br>
+<b>[国重室创新课题]()</b> 
+<br> 
+<i><b>Jie Lu<b><i>
+<br>
+<b>2020-2021</b>
+<br>
+<br>
