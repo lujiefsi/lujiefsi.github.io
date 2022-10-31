@@ -3,7 +3,7 @@ title: "Funding"
 permalink: /funding/
 author_profile: true
 ---
-Funding <br>
+Research Funding (Jie Lu) <br>
 <br>
 <br>
 <b>[Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/)</b> 
