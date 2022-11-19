@@ -13,4 +13,4 @@ I am an  Associate Professor of  The Institute of Computing Technology of the Ch
 News
 ======
 
-MPChecker  awarded a [Best Paper Honorable Mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html) at CCS 2022 
+* MPChecker  awarded a [Best Paper Honorable Mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html) at CCS 2022 
