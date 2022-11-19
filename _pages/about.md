@@ -10,7 +10,3 @@ redirect_from:
 
 I am an  Associate Professor of  The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software testing, distributed system, program analysis, and machine learning.
 
-News
-======
-
-* MPChecker  awarded a [Best Paper Honorable Mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html) at CCS 2022 
