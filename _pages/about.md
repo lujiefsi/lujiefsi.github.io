@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-# About Me
+
 
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis.
 
@@ -47,7 +47,7 @@ We are grateful for the following funding agencies and programs for supporting o
 - Special Research Assistant Fund
 - Innovation Project of the State Key Laboratory
 
-# 关于我
+---
 
 我是中国科学院计算技术研究所的副教授。我的研究兴趣包括软件安全和程序分析。
 
