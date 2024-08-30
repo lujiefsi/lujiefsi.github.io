@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-
-
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis.
 
 ## Achievements
@@ -34,10 +32,10 @@ I am broadly interested in computer security, and my research frequently interse
    - Finding bugs in distributed systems via fault injection.
 
 3. Log Analysis
-   - Analyzing software-generated (audit) logs for defect (attack) tracing.
+   - Analyzing software-generated (audit) logs for bugs (attack) tracing.
 
 4. Static Analysis
-   - Optimizing classic static analysis techniques such as pointer analysis and IDFS.
+   - Optimizing classic static analysis techniques such as pointer analysis and IFDS.
 
 We are grateful for the following funding agencies and programs for supporting our research:
 
@@ -75,7 +73,7 @@ We are grateful for the following funding agencies and programs for supporting o
    - 通过分析软件产生的（审计）日志，进行缺陷（攻击）溯源。
 
 4. 静态分析
-   - 优化指针分析、IDFS等经典的静态分析技术。
+   - 优化指针分析、IFDS等经典的静态分析技术。
 
 我们感谢以下资助机构和项目对我们研究的支持：
 
