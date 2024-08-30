@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/SADROID
 date: 2024-02-01
 venue: 'CGO'
-paperurl: 'https://leehaofeng.github.io/papers/2024-SADroid.pdf'
+paperurl: ''
 authors: 'Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao'
 ---
