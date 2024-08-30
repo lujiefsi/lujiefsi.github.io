@@ -1,3 +1,4 @@
+---
 title: "Two Birds with One Stone: Multi-Derivation for Fast Context-Free Language Reachability Analysis"
 collection: publications
 permalink: /publication/PEARL
