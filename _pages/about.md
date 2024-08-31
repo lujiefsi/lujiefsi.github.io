@@ -23,7 +23,7 @@ I'm currently looking for master students and interns. If you're interested in p
 
 # Research
 
-I am broadly interested in computer security, and my research frequently intersects software security, cloud systems, distributed systems, and program analysis. My research goal is to leverage program analysis techniques to identify defects and vulnerabilities in software, thereby improving software reliability and security. My work has resulted in the discovery of over 200 defects and vulnerabilities in the open-source community, leading to more than 100 CVE identifiers. I have been working towards my research goals in the following directions:
+I am broadly interested in computer security, and my research frequently intersects software security, cloud systems, distributed systems, and program analysis. My research goal is to leverage program analysis techniques to identify bugsand vulnerabilities in software, thereby improving software reliability and security. My work has resulted in the discovery of over 200 bugsand vulnerabilities in the open-source community, leading to more than 100 CVE identifiers. I have been working towards my research goals in the following directions:
 
 1. Open Source Software Security
    - Identifying common vulnerabilities in open-source software, such as OWASP Top Ten and OWASP API Top Ten, through static analysis techniques.
