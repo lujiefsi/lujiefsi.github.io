@@ -3,7 +3,7 @@ title: "Two Birds with One Stone: Multi-Derivation for Fast Context-Free Languag
 collection: publications
 permalink: /publication/PEARL
 date: 2023-07-18
-venue: 'ASE'
+venue: 'ASE CCF-A'
 paperurl: 'http://lujiefsi.github.io/files/papers/PEARL.pdf'
 authors: 'Chenghang Shi , Haofeng Li , Yulei Sui , Jie Lu, Lian Li, Jingling Xue'
 ---

@@ -3,7 +3,7 @@ title: "Exposing Vulnerable Paths: Enhance Static Analysis with Lightweight Symb
 collection: publications
 permalink: /publication/SATRACER
 date: 2021-10-01
-venue: 'APSEC'
+venue: 'APSEC CCF-C'
 paperurl: 'http://lujiefsi.github.io/files/papers/SATRACER.pdf'
 authors: 'Guangwei Li, Ting Yuan, Jie Lu, Lian Li, Xiaobin Zhang, Xu Song, Kejun Zhang'
 ---
