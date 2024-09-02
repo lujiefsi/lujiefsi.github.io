@@ -13,10 +13,6 @@ redirect_from:
 
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis.
 
-## Achievements
-- Best Paper Honorable Mention at CCS 2022
-- Outstanding Doctoral Dissertation Award, Chinese Academy of Sciences, 2021
-- Special Award of the Director of Institute of Computing Technology (Pei-Su Hsia Award), 2018
 
 ## Recruiting
 I'm currently looking for master students and interns. If you're interested in pursuing a Ph.D., please check out our research group at [https://ict-pag.github.io/](https://ict-pag.github.io/). If you are passionate about systems, software, and security, please feel free to contact me! For more details, visit [https://ict-pag.github.io/joining/](https://ict-pag.github.io/joining/).
@@ -49,8 +45,8 @@ We are grateful for the following funding agencies and programs for supporting o
 
 # Selected Publications
 
-**Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**
-Yongheng Huang, Chenghang Shi, Jie Lu, Haofeng Li, Haining Meng, Lian Li
+**Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**  
+Yongheng Huang, Chenghang Shi, Jie Lu, Haofeng Li, Haining Meng, Lian Li  
 CCS, 2024
 
 **Boosting the Performance of Alias-Aware IFDS Analysis with CFL-based Environment Transformers**
