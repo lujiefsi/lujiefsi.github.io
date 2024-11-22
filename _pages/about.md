@@ -44,6 +44,11 @@ We are grateful for the following funding agencies and programs for supporting o
 - Innovation Project of the State Key Laboratory
 
 # Selected Publications
+**Sheep’s Clothing, Wolf’s Data: Detecting Server-Induced Client Vulnerabilities inWindows Remote IPC**
+Fangming Gu, Jie Lu, Qingli Guo, Qinghe Xie,Beibei Zhao,Kangjie Lu, Hong Li,
+Xiaorui Gong
+NDSS 2025
+
 
 **Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**  
 Yongheng Huang, Chenghang Shi, Jie Lu, Haofeng Li, Haining Meng, Lian Li  
