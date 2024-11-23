@@ -21,27 +21,6 @@ I'm currently looking for master students and interns. If you're interested in p
 
 I am broadly interested in computer security, and my research frequently intersects software security, cloud systems, distributed systems, and program analysis. My research goal is to leverage program analysis techniques to identify bugs and vulnerabilities in software, thereby improving software reliability and security. My work has resulted in the discovery of over 200 bugs and vulnerabilities in the open-source community, leading to more than 100 CVE identifiers.
 
-## Research Directions
-1. **Open Source Software Security**
-   - Identifying common vulnerabilities in open-source software, such as OWASP Top Ten and OWASP API Top Ten, through static analysis techniques.
-
-2. **Distributed Systems Reliability**
-   - Finding bugs in distributed systems via fault injection.
-
-3. **Log Analysis**
-   - Analyzing software-generated (audit) logs for bugs (attack) tracing.
-
-4. **Static Analysis**
-   - Optimizing classic static analysis techniques such as pointer analysis and IFDS.
-
-## Funding
-We are grateful for the following funding agencies and programs for supporting our research:
-
-- Young Scientists Fund of the National Natural Science Foundation of China
-- CCF-Huawei Innovation Research Plan
-- CCF-Ant Research Fund
-- Special Research Assistant Fund
-- Innovation Project of the State Key Laboratory
 
 # Selected Publications
 **Sheep’s Clothing, Wolf’s Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
