@@ -5,5 +5,5 @@ permalink: /publication/Gleipnir
 date: 2025-01-01
 venue: 'NDSS CCF-A'
 paperurl: ''
-authors: 'Fangming Gu, Jie Lu, Qingli Guo, Qinghe Xie,Beibei Zhao,Kangjie Lu, Hong Li,Xiaorui Gong'
+
 ---
