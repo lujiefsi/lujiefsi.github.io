@@ -24,7 +24,7 @@ I am broadly interested in computer security, and my research frequently interse
 
 # Selected Publications
 **Sheep’s Clothing, Wolf’s Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
- 
+Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, and Xiaorui Gong 
 NDSS, 2025
 
 
