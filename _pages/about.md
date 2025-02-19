@@ -23,6 +23,11 @@ I am broadly interested in computer security, and my research frequently interse
 
 
 # Selected Publications
+
+**Module-Aware Context Sensitive Pointer Analysis**
+Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan ZHao
+ICSE,25
+
 **Sheep’s Clothing, Wolf’s Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
 Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, and Xiaorui Gong 
 NDSS, 2025
