@@ -3,7 +3,7 @@ title: "Module-Aware Context Sensitive Pointer Analysis"
 collection: publications
 permalink: /publication/MPA
 date: 2015-02-01
-venue: 'ICSE 2025'
+venue: 'ICSE 25 CCF-A'
 paperurl: ''
 authors: 'Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan Zhao'
 ---
