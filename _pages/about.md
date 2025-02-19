@@ -25,7 +25,7 @@ I am broadly interested in computer security, and my research frequently interse
 # Selected Publications
 
 **Module-Aware Context Sensitive Pointer Analysis**
-Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan ZHao
+Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan Zhao 
 ICSE, 25
 
 
