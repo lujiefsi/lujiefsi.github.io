@@ -10,47 +10,68 @@ redirect_from:
 
 # About Me 👋
 
-I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research focuses on software security and program analysis, with particular emphasis on:
-
-- 🔒 Software Security
-- 📊 Program Analysis
-- ☁️ Cloud Systems Security
-- 🌐 Distributed Systems
+I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
 
 ## Impact & Achievement 🏆
 - Discovered 200+ bugs and vulnerabilities in open-source software
 - Contributed to 100+ CVE identifiers
 - Published in top-tier venues including SOSP, CCS, NDSS, ICSE, FSE
+- Research spanning software security, cloud systems, and program analysis
 
 ---
 
 ## Research Interests 🔬
 
-My research lies at the intersection of computer security, software systems, and program analysis. I am particularly focused on:
+I am broadly interested in computer security, and my research frequently intersects with:
 
-- **Software Security**: Vulnerability detection and prevention
-- **Program Analysis**: Static and dynamic analysis techniques
-- **Cloud Systems**: Distributed system security and reliability
-- **System Reliability**: Bug detection and system hardening
+- **Software Security**: 
+  - Vulnerability detection and prevention
+  - Security enhancement in open-source software
+  - Bug detection and analysis
 
-### Current Research Focus
-- Developing advanced program analysis techniques
-- Improving cloud system security
-- Enhancing software vulnerability detection
-- Building reliable distributed systems
+- **Program Analysis**: 
+  - Static and dynamic analysis techniques
+  - Context-sensitive pointer analysis
+  - CFL-reachability solving
+  - IFDS analysis optimization
+
+- **Cloud Systems**: 
+  - Distributed system security
+  - Crash-recovery bug detection
+  - Cloud system reliability
+  - Concurrency bug detection
+
+- **Distributed Systems**:
+  - Node change bug analysis
+  - Log-based bug detection
+  - System reliability enhancement
+  - Permission-check vulnerability detection
 
 ---
 
 ## Recruiting 🎓
 
-**We're looking for passionate researchers!**
+**We're actively seeking talented researchers!**
 
-- 🎯 **Looking for**: Master students and interns
-- 📚 **Research Group**: [ICT-PAG Research Group](https://ict-pag.github.io/)
-- 🔍 **Requirements**: Strong interest in systems, software, and security
-- 📝 **How to Apply**: [Application Details](https://ict-pag.github.io/joining/)
+### Who We're Looking For
+- 🎓 Master students
+- 💼 Research interns
+- 🔬 Potential Ph.D. candidates
 
-Feel free to reach out if you're interested in joining our team!
+### Research Opportunities
+- Join our dynamic research group at [ICT-PAG Research Group](https://ict-pag.github.io/)
+- Work on cutting-edge software security and program analysis projects
+- Collaborate with leading researchers in the field
+
+### Requirements
+- Strong interest in systems, software, and security
+- Solid programming skills
+- Motivation to tackle challenging research problems
+
+### How to Apply
+- Visit our research group page: [https://ict-pag.github.io/](https://ict-pag.github.io/)
+- Check detailed application information: [https://ict-pag.github.io/joining/](https://ict-pag.github.io/joining/)
+- Feel free to contact me directly if you're passionate about our research areas!
 
 ---
 
@@ -59,41 +80,91 @@ Feel free to reach out if you're interested in joining our team!
 ### 2025
 - **Module-Aware Context Sensitive Pointer Analysis**  
   Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan Zhao  
-  *ICSE'25*
+  *International Conference on Software Engineering (ICSE'25)*
 
-- **Sheep's Clothing, Wolf's Data**  
-  Fangming Gu, Qingli Guo, Jie Lu, et al.  
-  *NDSS'25*
+- **Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
+  Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong  
+  *Network and Distributed System Security Symposium (NDSS'25)*
 
 ### 2024
-- **Detecting Broken Object-Level Authorization Vulnerabilities**  
-  Yongheng Huang, Chenghang Shi, Jie Lu, et al.  
-  *CCS'24*
+- **Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**  
+  Yongheng Huang, Chenghang Shi, Jie Lu, Haofeng Li, Haining Meng, Lian Li  
+  *ACM Conference on Computer and Communications Security (CCS'24)*
 
-- **Boosting the Performance of Alias-Aware IFDS Analysis**  
-  Haofeng Li, Chenghang Shi, Jie Lu, et al.  
+- **Boosting the Performance of Alias-Aware IFDS Analysis with CFL-based Environment Transformers**  
+  Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Jingling Xue  
   *OOPSLA'24*
 
-- **Better Not Together: Staged Solving for CFL Reachability**  
+- **Better Not Together: Staged Solving for Context-Free Language Reachability**  
   Chenghang Shi, Haofeng Li, Jie Lu, Lian Li  
   *ISSTA'24*
 
-### 2022-2023
-- **Detecting Missing-Permission-Check Vulnerabilities** 🏆  
-  Jie Lu, Haofeng Li, Chen Liu, et al.  
-  *Best Paper Honorable Mention, CCS'22*
+- **PEARL: A Multi-Derivation Approach to Efficient CFL-Reachability Solving**  
+  Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
+  *IEEE Transactions on Software Engineering (TSE'24)*
 
-- **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis**  
-  Haofeng Li, Jie Lu, Haining Meng, et al.  
+- **Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis**  
+  Haofeng Li, Tian Tan, Yue Li, Jie Lu, et al.  
+  *IEEE Transactions on Software Engineering (TSE'24)*
+
+- **Boosting the Performance of Multi-Solver IFDS Algorithms with Flow-sensitivity Optimizations**  
+  Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao  
+  *International Symposium on Code Generation and Optimization (CGO'24)*
+
+- **File Hijacking Vulnerability: The Elephant in the Room**  
+  Chendong Yu, Yang Xiao, Jie Lu, et al.  
+  *NDSS'24*
+
+- **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
+  Haining Meng, Haofeng Li, Jie Lu, et al.  
+  *ICECCS'24*
+
+### 2023
+- **Two Birds with One Stone: Multi-Derivation for Fast Context-Free Language Reachability Analysis**  
+  Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
+  *Automated Software Engineering (ASE'23)*
+
+### 2022
+- **Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems** 🏆  
+  Jie Lu, Haofeng Li, Chen Liu, Lian li, Kun Cheng  
+  *Best Paper Honorable Mention, ACM CCS'22*
+
+- **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics**  
+  Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao  
   *ESEC/FSE'22*
 
-### Notable Earlier Work
-- **CrashTuner: Detecting Crash-Recovery Bugs**  
-  Jie Lu, Chen Liu, Lian Li, et al.  
-  *SOSP'19*
+### 2021
+- **Exposing Vulnerable Paths: Enhance Static Analysis with Lightweight Symbolic Execution**  
+  Guangwei Li, Ting Yuan, Jie Lu, et al.  
+  *APSEC'21*
 
-- **CloudRaid: Hunting Concurrency Bugs**  
-  Jie Lu, Feng Li, Lian Li, Xiaobing Feng  
+- **Detecting TensorFlow Program Bugs in Real-World Industrial Environment**  
+  Chen Liu, Jie Lu, Guangwei Li, et al.  
+  *ASE'21*
+
+- **Scaling Up the IFDS Algorithm with Efficient Disk-assisted Computing**  
+  Haofeng Li, Haining Meng, Hengjie Zheng, et al.  
+  *CGO'21*
+
+- **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
+  Ting Yuan, Guangwei Li, Jie Lu, et al.  
+  *CGO'21*
+
+### 2018-2020
+- **CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement**  
+  Jie Lu, Feng Li, Chen Liu, Lian Li, Xiaobing Feng, Jingling Xue  
+  *IEEE Transactions on Software Engineering (TSE'20)*
+
+- **CrashTuner: Detecting Crash-Recovery Bugs in Cloud Systems via Meta-Info Analysis**  
+  Jie Lu, Chen Liu, Lian Li, Xiaobing Feng, Feng Tan, Jun Yang, Liang You  
+  *ACM Symposium on Operating Systems Principles (SOSP'19)*
+
+- **Understanding Node Change Bugs for Distributed Systems**  
+  Jie Lu, Liu Chen, Lian Li and Xiaobing Feng  
+  *SANER'19*
+
+- **CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining**  
+  Jie Lu, Feng Li, Lian Li and Xiaobing Feng  
   *ESEC/FSE'18*
 
 [📚 View Complete Publication List](https://lujie.ac.cn/publications/)
