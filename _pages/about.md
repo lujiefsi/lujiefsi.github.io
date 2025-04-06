@@ -91,10 +91,10 @@ I am broadly interested in computer security, and my research frequently interse
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao  
   *International Symposium on Code Generation and Optimization (CGO'24)*
 - **File Hijacking Vulnerability: The Elephant in the Room**  
-  Chendong Yu, Yang Xiao, Jie Lu, et al.  
+  Chendong Yu, Yang Xiao, Jie Lu, Yuekang Li, Yeting Li, L. Li, Y. Dong, J. Wang, J. Shi, D. Bo, W. Huo
   *Network and Distributed System Security Symposium (NDSS'24)*
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
-  Haining Meng, Haofeng Li, Jie Lu, et al.  
+  Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao
   *International Conference on Engineering of Complex Computer Systems (ICECCS'24)*
 
 ### 2023
