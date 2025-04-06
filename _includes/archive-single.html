@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline" style="font-size: 1.3em; font-weight: 500; color: #0077cc; margin-bottom: 0.5em;">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -38,43 +38,53 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          {{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br>
-        {% elsif post.collection == 'prof' %}
-          {{ post.authors }}<br><i>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}, {{post.location}}</i><br>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+    {% if post.collection == 'teaching' %}
+      <p style="font-size: 1em; line-height: 1.5; margin-bottom: 0.3em;"> 
+        {{ post.type }}, <i style="font-style: italic; color: #444;">{{ post.venue }}</i>, 
+        <span style="font-weight: bold; color: #555;">{{ post.date | default: "1900-01-01" | date: "%Y" }}</span> 
+      </p>
+    {% elsif post.collection == 'publications' %}
+      <p style="font-size: 1em; line-height: 1.5; margin-bottom: 0.3em;">{{ post.authors }}</p>
+      <p style="font-style: italic; font-size: 0.95em; color: #444; margin-bottom: 0.3em;">
+        <i>{{ post.venue }}</i>, <span style="font-weight: bold; color: #555;">{{ post.date | default: "1900-01-01" | date: "%Y" }}</span>
+      </p>
+    {% elsif post.collection == 'prof' %}
+      <p style="font-size: 1em; line-height: 1.5; margin-bottom: 0.3em;">{{ post.authors }}</p>
+      <p style="font-style: italic; font-size: 0.95em; color: #444; margin-bottom: 0.3em;">
+        <i>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}, {{post.location}}</i>
+      </p>
+    {% elsif post.date %}
+      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
 
-     {% if post.preprinturl %}
-     <a href="{{ post.preprinturl  }}"><u>Preprint</u></a>
-     &nbsp;&nbsp;&nbsp;
-     {% endif %}
-     {% if post.pdfurl %}
-     <a href="{{ post.pdfurl }}"><u>PDF</u></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     {% endif %}
-     {% if post.paperurl %}
-     <a href="{{ post.paperurl }}">View</a>&nbsp;&nbsp;&nbsp;&nbsp;
-     {% endif %}
-     {% if post.arxivurl %}
-     <a href="{{ post.arxivurl }}">ArXiv</a>&nbsp;&nbsp;&nbsp;&nbsp;     
-     {% endif %}
-     {% if post.codeurl %}
-     <a href="{{ post.codeurl }}"><u>Code and Data</u></a>&nbsp;&nbsp;&nbsp;
-     {% endif %}
+    <div style="margin-top: 0.5em; margin-bottom: 0.8em;">
+      {% if post.preprinturl %}
+      <a href="{{ post.preprinturl }}" style="display: inline-block; margin-right: 10px; padding: 3px 8px; background-color: #f5f5f5; border-radius: 4px; font-size: 0.85em; color: #0077cc; text-decoration: none; border: 1px solid #ddd;">Preprint</a>
+      {% endif %}
+      {% if post.pdfurl %}
+      <a href="{{ post.pdfurl }}" style="display: inline-block; margin-right: 10px; padding: 3px 8px; background-color: #f5f5f5; border-radius: 4px; font-size: 0.85em; color: #0077cc; text-decoration: none; border: 1px solid #ddd;">PDF</a>
+      {% endif %}
+      {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" style="display: inline-block; margin-right: 10px; padding: 3px 8px; background-color: #f5f5f5; border-radius: 4px; font-size: 0.85em; color: #0077cc; text-decoration: none; border: 1px solid #ddd;">View</a>
+      {% endif %}
+      {% if post.arxivurl %}
+      <a href="{{ post.arxivurl }}" style="display: inline-block; margin-right: 10px; padding: 3px 8px; background-color: #f5f5f5; border-radius: 4px; font-size: 0.85em; color: #0077cc; text-decoration: none; border: 1px solid #ddd;">ArXiv</a>
+      {% endif %}
+      {% if post.codeurl %}
+      <a href="{{ post.codeurl }}" style="display: inline-block; margin-right: 10px; padding: 3px 8px; background-color: #f5f5f5; border-radius: 4px; font-size: 0.85em; color: #0077cc; text-decoration: none; border: 1px solid #ddd;">Code and Data</a>
+      {% endif %}
+    </div>
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.9em; color: #666; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.9em; color: #666; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Suggested citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Suggested citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Suggested citation: {{ post.citation }} </p>
+      <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Suggested citation: {{ post.citation }} </p>
     {% endif %}
 
   </article>
