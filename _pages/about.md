@@ -23,6 +23,28 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## Research Interests 🔬
 
+My research focuses on:
+
+- **Software Security**: Vulnerability detection, security enhancement in open-source software
+- **Program Analysis**: Static/dynamic analysis, pointer analysis, IFDS optimization
+- **Cloud Systems**: Distributed system security, crash-recovery and concurrency bug detection
+
+---
+
+## Recruiting 🎓
+
+I'm seeking talented Master students, Research interns, and Ph.D. candidates to join our research group at ICT-CAS.
+
+**What we offer:**
+- Collaborative research environment at [ICT-PAG Research Group](https://ict-pag.github.io/)
+- Projects in software security and program analysis
+
+**Requirements:**
+- Interest in systems, software security, and program analysis
+- Strong programming skills and research motivation
+
+**Apply:** Visit [https://ict-pag.github.io/joining/](https://ict-pag.github.io/joining/) or contact me directly.
+
 I am broadly interested in computer security, and my research frequently intersects with:
 
 - **Software Security**: 
