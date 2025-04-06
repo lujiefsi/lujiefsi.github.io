@@ -68,12 +68,12 @@ I am broadly interested in computer security, and my research frequently interse
   *International Conference on Software Engineering (ICSE'25)*
 
 - **Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
-  Fangming Gu, Qingli Guo, Jie Lu<sup>✉</sup>, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong  
+  Fangming Gu, Qingli Guo<sup>✉</sup>, Jie Lu<sup>✉</sup>, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong  
   *Network and Distributed System Security Symposium (NDSS'25)*
 
 ### 2024
 - **Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**  
-  Yongheng Huang, Chenghang Shi, Jie Lu, Haofeng Li, Haining Meng, Lian Li  
+  Yongheng Huang, Chenghang Shi, Jie Lu<sup>✉</sup>, Haofeng Li, Haining Meng, Lian Li<sup>✉</sup>  
   *ACM Conference on Computer and Communications Security (CCS'24)*
 
 - **Boosting the Performance of Alias-Aware IFDS Analysis with CFL-based Environment Transformers**  
@@ -119,13 +119,13 @@ I am broadly interested in computer security, and my research frequently interse
   Guangwei Li, Ting Yuan, Jie Lu, et al.  
   *Asia-Pacific Software Engineering Conference (APSEC'21)*
 - **Detecting TensorFlow Program Bugs in Real-World Industrial Environment**  
-  Chen Liu, Jie Lu, Guangwei Li, et al.  
+  Chen Liu, Jie Lu<sup>✉</sup>, Guangwei Li, et al.  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'21)*
 - **Scaling Up the IFDS Algorithm with Efficient Disk-assisted Computing**  
   Haofeng Li, Haining Meng, Hengjie Zheng, et al.  
   *International Symposium on Code Generation and Optimization (CGO'21)*
 - **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
-  Ting Yuan, Guangwei Li, Jie Lu, et al.  
+  Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, et al.  
   *International Symposium on Code Generation and Optimization (CGO'21)*
 
 ### 2018-2020
