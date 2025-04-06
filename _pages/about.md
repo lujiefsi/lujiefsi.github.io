@@ -85,12 +85,10 @@ I am broadly interested in computer security, and my research frequently interse
 
 - **Boosting the Performance of Alias-Aware IFDS Analysis with CFL-based Environment Transformers**  
   Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Jingling Xue  
-  *OOPSLA'24*
-
+  *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'24)*
 - **Better Not Together: Staged Solving for Context-Free Language Reachability**  
   Chenghang Shi, Haofeng Li, Jie Lu, Lian Li  
-  *ISSTA'24*
-
+  *International Symposium on Software Testing and Analysis (ISSTA'24)*
 - **PEARL: A Multi-Derivation Approach to Efficient CFL-Reachability Solving**  
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'24)*
@@ -105,43 +103,35 @@ I am broadly interested in computer security, and my research frequently interse
 
 - **File Hijacking Vulnerability: The Elephant in the Room**  
   Chendong Yu, Yang Xiao, Jie Lu, et al.  
-  *NDSS'24*
-
+  *Network and Distributed System Security Symposium (NDSS'24)*
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
   Haining Meng, Haofeng Li, Jie Lu, et al.  
-  *ICECCS'24*
-
+  *International Conference on Engineering of Complex Computer Systems (ICECCS'24)*
 ### 2023
 - **Two Birds with One Stone: Multi-Derivation for Fast Context-Free Language Reachability Analysis**  
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
-  *Automated Software Engineering (ASE'23)*
+  *IEEE/ACM International Conference on Automated Software Engineering (ASE'23)*
 
 ### 2022
 - **Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems** 🏆  
   Jie Lu, Haofeng Li, Chen Liu, Lian li, Kun Cheng  
-  *Best Paper Honorable Mention, ACM CCS'22*
-
+  *Best Paper Honorable Mention, ACM Conference on Computer and Communications Security (CCS'22)*
 - **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao  
-  *ESEC/FSE'22*
-
+  *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*
 ### 2021
 - **Exposing Vulnerable Paths: Enhance Static Analysis with Lightweight Symbolic Execution**  
   Guangwei Li, Ting Yuan, Jie Lu, et al.  
-  *APSEC'21*
-
+  *Asia-Pacific Software Engineering Conference (APSEC'21)*
 - **Detecting TensorFlow Program Bugs in Real-World Industrial Environment**  
   Chen Liu, Jie Lu, Guangwei Li, et al.  
-  *ASE'21*
-
+  *IEEE/ACM International Conference on Automated Software Engineering (ASE'21)*
 - **Scaling Up the IFDS Algorithm with Efficient Disk-assisted Computing**  
   Haofeng Li, Haining Meng, Hengjie Zheng, et al.  
-  *CGO'21*
-
+  *International Symposium on Code Generation and Optimization (CGO'21)*
 - **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
   Ting Yuan, Guangwei Li, Jie Lu, et al.  
-  *CGO'21*
-
+  *International Symposium on Code Generation and Optimization (CGO'21)*
 ### 2018-2020
 - **CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement**  
   Jie Lu, Feng Li, Chen Liu, Lian Li, Xiaobing Feng, Jingling Xue  
@@ -153,10 +143,9 @@ I am broadly interested in computer security, and my research frequently interse
 
 - **Understanding Node Change Bugs for Distributed Systems**  
   Jie Lu, Liu Chen, Lian Li and Xiaobing Feng  
-  *SANER'19*
-
+  *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'19)*
 - **CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining**  
   Jie Lu, Feng Li, Lian Li and Xiaobing Feng  
-  *ESEC/FSE'18*
+  *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'18)*
 
 [📚 View Complete Publication List](https://lujie.ac.cn/publications/)
