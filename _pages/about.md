@@ -94,7 +94,7 @@ I am broadly interested in computer security, and my research frequently interse
   Chendong Yu, Yang Xiao, Jie Lu, Yuekang Li, Yeting Li, L. Li, Y. Dong, J. Wang, J. Shi, D. Bo, W. Huo  
   *Network and Distributed System Security Symposium (NDSS'24)*
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
-  Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao
+  Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao  
   *International Conference on Engineering of Complex Computer Systems (ICECCS'24)*
 
 ### 2023
@@ -119,10 +119,10 @@ I am broadly interested in computer security, and my research frequently interse
   Chen Liu, Jie Lu<sup>✉</sup>, Guangwei Li, Ting Yuan, Lian Li<sup>✉</sup>, Feng Tan, Jun Yang, Liang You, Jingling Xue  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'21)*
 - **Scaling Up the IFDS Algorithm with Efficient Disk-assisted Computing**  
-  Haofeng Li, Haining Meng, Hengjie Zheng, Liqing Cao, Jie Lu, Lian Li, Lin Gao
+  Haofeng Li, Haining Meng, Hengjie Zheng, Liqing Cao, Jie Lu, Lian Li, Lin Gao  
   *International Symposium on Code Generation and Optimization (CGO'21)*
 - **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
-  Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, Chen Liu, Lian Li<sup>✉</sup>, Jingling Xue 
+  Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, Chen Liu, Lian Li<sup>✉</sup>, Jingling Xue  
   *International Symposium on Code Generation and Optimization (CGO'21)*
 
 ### 2018-2020
@@ -136,7 +136,7 @@ I am broadly interested in computer security, and my research frequently interse
   Jie Lu, Liu Chen, Lian Li and Xiaobing Feng  
   *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'19)*
 - **CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining**  
-  Jie Lu, Feng Li, Lian Li and Xiaobing Feng  
+  Jie Lu, Feng Li, Lian Li and Xiaobing Feng   
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'18)*
 
 [📚 View Complete Publication List](https://lujie.ac.cn/publications/)
