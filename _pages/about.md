@@ -75,7 +75,6 @@ I am broadly interested in computer security, and my research frequently interse
 - **Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications**  
   Yongheng Huang, Chenghang Shi, Jie Lu<sup>✉</sup>, Haofeng Li, Haining Meng, Lian Li<sup>✉</sup>  
   *ACM Conference on Computer and Communications Security (CCS'24)*
-
 - **Boosting the Performance of Alias-Aware IFDS Analysis with CFL-based Environment Transformers**  
   Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Jingling Xue  
   *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'24)*
@@ -85,15 +84,12 @@ I am broadly interested in computer security, and my research frequently interse
 - **PEARL: A Multi-Derivation Approach to Efficient CFL-Reachability Solving**  
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'24)*
-
 - **Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis**  
   Haofeng Li, Tian Tan, Yue Li, Jie Lu, et al.  
   *IEEE Transactions on Software Engineering (TSE'24)*
-
 - **Boosting the Performance of Multi-Solver IFDS Algorithms with Flow-sensitivity Optimizations**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao  
   *International Symposium on Code Generation and Optimization (CGO'24)*
-
 - **File Hijacking Vulnerability: The Elephant in the Room**  
   Chendong Yu, Yang Xiao, Jie Lu, et al.  
   *Network and Distributed System Security Symposium (NDSS'24)*
@@ -132,11 +128,9 @@ I am broadly interested in computer security, and my research frequently interse
 - **CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement**  
   Jie Lu, Feng Li, Chen Liu, Lian Li, Xiaobing Feng, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'20)*
-
 - **CrashTuner: Detecting Crash-Recovery Bugs in Cloud Systems via Meta-Info Analysis**  
   Jie Lu, Chen Liu, Lian Li, Xiaobing Feng, Feng Tan, Jun Yang, Liang You  
   *ACM Symposium on Operating Systems Principles (SOSP'19)*
-
 - **Understanding Node Change Bugs for Distributed Systems**  
   Jie Lu, Liu Chen, Lian Li and Xiaobing Feng  
   *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'19)*
