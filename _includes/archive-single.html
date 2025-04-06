@@ -50,10 +50,7 @@
         {% elsif post.collection == 'publications' %}
           <p style="font-family: 'Segoe UI', Arial, sans-serif; margin-bottom: 0.2em; margin-top: 0.5em;">{{ post.authors }}</p>
           <p style="font-family: 'Segoe UI', Arial, sans-serif; font-style: italic; margin-bottom: 0.2em;">
-            {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-            {% if post.ccf_level or post.acceptance_rate %}
-            ({% if post.ccf_level %}{{ post.ccf_level }}{% endif %}{% if post.acceptance_rate %}, Acceptance Rate: {{ post.acceptance_rate }}{% endif %})
-            {% endif %}
+            {{ post.venue }}{% if post.ccfrank %}, {{ post.ccfrank }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           </p>
         {% elsif post.collection == 'prof' %}
           <p style="font-family: 'Segoe UI', Arial, sans-serif; margin-bottom: 0.2em; margin-top: 0.5em;">{{ post.authors }}</p>
@@ -92,6 +89,6 @@
           <p>Suggested citation: {{ post.citation }} </p>
         {% endif %}
       </div>
-</div>
+    </div>
   </article>
 </div>
