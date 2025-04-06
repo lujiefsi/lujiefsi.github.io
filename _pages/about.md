@@ -85,13 +85,13 @@ I am broadly interested in computer security, and my research frequently interse
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'24)*
 - **Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis**  
-  Haofeng Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao, Peng Di, Liang Lin, and ChenXi Cui 
+  Haofeng Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao, Peng Di, Liang Lin, and ChenXi Cui  
   *IEEE Transactions on Software Engineering (TSE'24)*
 - **Boosting the Performance of Multi-Solver IFDS Algorithms with Flow-sensitivity Optimizations**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao  
   *International Symposium on Code Generation and Optimization (CGO'24)*
 - **File Hijacking Vulnerability: The Elephant in the Room**  
-  Chendong Yu, Yang Xiao, Jie Lu, Yuekang Li, Yeting Li, L. Li, Y. Dong, J. Wang, J. Shi, D. Bo, W. Huo
+  Chendong Yu, Yang Xiao, Jie Lu, Yuekang Li, Yeting Li, L. Li, Y. Dong, J. Wang, J. Shi, D. Bo, W. Huo  
   *Network and Distributed System Security Symposium (NDSS'24)*
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
   Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao
