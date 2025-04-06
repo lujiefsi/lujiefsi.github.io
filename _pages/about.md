@@ -105,7 +105,7 @@ I am broadly interested in computer security, and my research frequently interse
 ### 2022
 - **Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems** 🏆  
   Jie Lu, Haofeng Li, Chen Liu, Lian li, Kun Cheng  
-  *Best Paper Honorable Mention*
+  *Best Paper Honorable Mention*  
   *ACM Conference on Computer and Communications Security (CCS'22)*
 - **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao  
