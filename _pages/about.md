@@ -120,6 +120,7 @@ I am broadly interested in computer security, and my research frequently interse
 - **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*
+
 ### 2021
 - **Exposing Vulnerable Paths: Enhance Static Analysis with Lightweight Symbolic Execution**  
   Guangwei Li, Ting Yuan, Jie Lu, et al.  
@@ -133,6 +134,7 @@ I am broadly interested in computer security, and my research frequently interse
 - **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
   Ting Yuan, Guangwei Li, Jie Lu, et al.  
   *International Symposium on Code Generation and Optimization (CGO'21)*
+
 ### 2018-2020
 - **CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement**  
   Jie Lu, Feng Li, Chen Liu, Lian Li, Xiaobing Feng, Jingling Xue  
