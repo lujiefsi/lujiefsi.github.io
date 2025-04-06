@@ -85,7 +85,7 @@ I am broadly interested in computer security, and my research frequently interse
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'24)*
 - **Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis**  
-  Haofeng Li, Tian Tan, Yue Li, Jie Lu, et al.  
+  Haofeng Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao, Peng Di, Liang Lin, and ChenXi Cui 
   *IEEE Transactions on Software Engineering (TSE'24)*
 - **Boosting the Performance of Multi-Solver IFDS Algorithms with Flow-sensitivity Optimizations**  
   Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao  
@@ -112,16 +112,16 @@ I am broadly interested in computer security, and my research frequently interse
 
 ### 2021
 - **Exposing Vulnerable Paths: Enhance Static Analysis with Lightweight Symbolic Execution**  
-  Guangwei Li, Ting Yuan, Jie Lu, et al.  
+  Guangwei Li, Ting Yuan, Jie Lu, Lian Li, Xiaobin Zhang, Xu Song, Kejun Zhang  
   *Asia-Pacific Software Engineering Conference (APSEC'21)*
 - **Detecting TensorFlow Program Bugs in Real-World Industrial Environment**  
-  Chen Liu, Jie Lu<sup>✉</sup>, Guangwei Li, et al.  
+  Chen Liu, Jie Lu<sup>✉</sup>, Guangwei Li, Ting Yuan, Lian Li<sup>✉</sup>, Feng Tan, Jun Yang, Liang You, Jingling Xue  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'21)*
 - **Scaling Up the IFDS Algorithm with Efficient Disk-assisted Computing**  
-  Haofeng Li, Haining Meng, Hengjie Zheng, et al.  
+  Haofeng Li, Haining Meng, Hengjie Zheng, Liqing Cao, Jie Lu, Lian Li, Lin Gao
   *International Symposium on Code Generation and Optimization (CGO'21)*
 - **GoBench: a Benchmark Suite of Real-World Go Concurrency Bugs**  
-  Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, et al.  
+  Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, Chen Liu, Lian Li<sup>✉</sup>, Jingling Xue 
   *International Symposium on Code Generation and Optimization (CGO'21)*
 
 ### 2018-2020
