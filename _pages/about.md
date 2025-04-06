@@ -57,11 +57,6 @@ I am broadly interested in computer security, and my research frequently interse
 - Work on cutting-edge software security and program analysis projects
 - Collaborate with leading researchers in the field
 
-### Requirements
-- Strong interest in systems, software, and security
-- Solid programming skills
-- Motivation to tackle challenging research problems
-
 ### How to Apply
 - Visit our research group page: [https://ict-pag.github.io/](https://ict-pag.github.io/)
 - Check detailed application information: [https://ict-pag.github.io/joining/](https://ict-pag.github.io/joining/)
