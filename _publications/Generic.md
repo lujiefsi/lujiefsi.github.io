@@ -6,5 +6,5 @@ date: 2022-06-14
 venue: 'ESEC/FSE'
 paperurl: 'http://lujiefsi.github.io/files/papers/Generic.pdf'
 authors: 'Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao'
-ccfrank: 'CCF-A
+ccfrank: 'CCF-A'
 ---

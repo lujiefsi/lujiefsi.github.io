@@ -6,5 +6,5 @@ date: 2024-02-01
 venue: 'CGO'
 paperurl: ''
 authors: 'Haofeng Li, Jie Lu, Haining Meng, Liqing Cao, Lian Li, Lin Gao'
-ccfrank: 'CCF-B
+ccfrank: 'CCF-B'
 ---
