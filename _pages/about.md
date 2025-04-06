@@ -52,10 +52,6 @@ I am broadly interested in computer security, and my research frequently interse
 - 💼 Research interns
 - 🔬 Potential Ph.D. candidates
 
-### Research Opportunities
-- Join our dynamic research group at [ICT-PAG Research Group](https://ict-pag.github.io/)
-- Work on cutting-edge software security and program analysis projects
-- Collaborate with leading researchers in the field
 
 ### How to Apply
 - Visit our research group page: [https://ict-pag.github.io/](https://ict-pag.github.io/)
