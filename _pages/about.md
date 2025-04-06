@@ -32,20 +32,12 @@ I am broadly interested in computer security, and my research frequently interse
 - **Program Analysis**: 
   - Static and dynamic analysis techniques
   - Context-sensitive pointer analysis
-  - CFL-reachability solving
   - IFDS analysis optimization
 
 - **Cloud Systems**: 
   - Distributed system security
   - Crash-recovery bug detection
-  - Cloud system reliability
   - Concurrency bug detection
-
-- **Distributed Systems**:
-  - Node change bug analysis
-  - Log-based bug detection
-  - System reliability enhancement
-  - Permission-check vulnerability detection
 
 ---
 
