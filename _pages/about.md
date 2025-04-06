@@ -107,6 +107,7 @@ I am broadly interested in computer security, and my research frequently interse
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
   Haining Meng, Haofeng Li, Jie Lu, et al.  
   *International Conference on Engineering of Complex Computer Systems (ICECCS'24)*
+
 ### 2023
 - **Two Birds with One Stone: Multi-Derivation for Fast Context-Free Language Reachability Analysis**  
   Chenghang Shi, Haofeng Li, Yulei Sui, Jie Lu, Lian Li, Jingling Xue  
