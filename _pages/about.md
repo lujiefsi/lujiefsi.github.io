@@ -68,7 +68,7 @@ I am broadly interested in computer security, and my research frequently interse
   *International Conference on Software Engineering (ICSE'25)*
 
 - **Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC**  
-  Fangming Gu, Qingli Guo<sup>✉</sup>, Jie Lu<sup>✉</sup>, Qinghe Xie, Beibei Zhao, Kangjie Lu,  et al.   
+  Fangming Gu, Qingli Guo<sup>✉</sup>, Jie Lu<sup>✉</sup>, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong  
   *Network and Distributed System Security Symposium (NDSS'25)*
 
 ### 2024
