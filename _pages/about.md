@@ -12,11 +12,12 @@ redirect_from:
 
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
 
-## Impact & Achievement 🏆
-- Discovered 200+ bugs and vulnerabilities in open-source software
-- Contributed to 100+ CVE identifiers
-- Published in top-tier venues including SOSP, CCS, NDSS, ICSE, FSE
-- Research spanning software security, cloud systems, and program analysis
+
+## News 📰
+
+* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by FSE2025
+* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by internetware2025
+
 
 ---
 
