@@ -48,9 +48,10 @@ I am broadly interested in computer security, and my research frequently interse
 **We're actively seeking talented researchers!**
 
 ### Who We're Looking For
-- 🎓 Master students
-- 💼 Research interns
-- 🔬 Potential Ph.D. candidates
+- 🔍 Potential Ph.D. candidates
+- 📚 Master students
+- 🌱 Research interns
+
 
 
 ### How to Apply
