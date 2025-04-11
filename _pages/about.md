@@ -13,41 +13,11 @@ redirect_from:
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
 
 
+
 ## News 📰
 
-* <span style="color:#F7B32B">NEW!</span> April 2025: Our paper "VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis" is accepted by FSE'25
+* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by FSE2025
 * <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by internetware2025
-
-<details>
-  <summary><strong>Show more news...</strong></summary>
-  <div class="older-news">
-    <ul>
-      <li>March 2025: Paper "Module-Aware Context Sensitive Pointer Analysis" is accepted by ICSE'25</li>
-      <li>February 2025: Paper "Sheep's Clothing, Wolf's Data" is accepted by NDSS'25</li>
-      <li>January 2025: Paper "Detecting Broken Object-Level Authorization Vulnerabilities" is accepted by CCS'24</li>
-      <li>December 2024: Paper "Boosting the Performance of Alias-Aware IFDS Analysis" is accepted by OOPSLA'24</li>
-    </ul>
-  </div>
-</details>
-
-<style>
-details {
-  margin-top: 10px;
-  cursor: pointer;
-}
-summary {
-  color: #4CAF50;
-  font-weight: bold;
-}
-summary:hover {
-  text-decoration: underline;
-}
-.older-news {
-  margin-top: 10px;
-  margin-left: 20px;
-}
-</style>
-
 
 
 ---
@@ -176,4 +146,3 @@ I am broadly interested in computer security, and my research frequently interse
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'18)*
 
 [📚 View Complete Publication List](https://lujie.ac.cn/publications/)
-
