@@ -69,6 +69,10 @@ I am broadly interested in computer security, and my research frequently interse
   Liqing Cao, Haofeng Li, Chenghang Shi, Jie Lu, Haining Meng, Lian Li, Jingling Xue  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'25)*
 
+- **SLVHound: Static Detection of Session Lingering Vulnerabilities in Modern Java Web Applications**  
+  Haining Meng, Jie Lu<sup>✉</sup>, Yongheng Huang, Lian Li<sup>✉</sup>  
+  *The 16th International Conference on Internetware (Internetware'25)*
+
 - **Module-Aware Context Sensitive Pointer Analysis**  
   Haofeng Li, Chenghang Shi, Jie Lu, Lian Li, Zixuan Zhao  
   *International Conference on Software Engineering (ICSE'25)*
