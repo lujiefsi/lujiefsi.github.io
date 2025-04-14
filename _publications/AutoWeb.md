@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/AutoWeb
 date: 2024-01-01
 venue: 'ICECCS'
-paperurl: ''
+paperurl: 'http://lujiefsi.github.io/files/papers/autoweb.pdf'
 authors: 'Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao'
 ccfrank: 'CCF-C'
 ---
