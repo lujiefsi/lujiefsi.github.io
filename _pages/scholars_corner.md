@@ -38,7 +38,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 
 
-
 ### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
 - [How to Give a Good Research Talk](https://www.st.cs.uni-saarland.de/zeller/GoodTalk.pdf) by Andreas Zeller
