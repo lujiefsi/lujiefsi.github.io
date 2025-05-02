@@ -68,8 +68,9 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 
 ### Academic Rankings and Resources
 - [CCF Rank](https://www.ccf.org.cn/Academic_Evaluation/By_category/) - Conferences and journals in Rank A are the best
+- [CCF DDL](https://ccfddl.com/) - Track submission deadlines for conferences recommended by CCF
 - [CORE Rank](http://www.core.edu.au/conference-portal) - Conferences and journals in Rank A* are the best
 - [CSRankings: Computer Science Rankings](http://csrankings.org/)
-- [CCF DDL](https://ccfddl.com/) - Track submission deadlines for conferences recommended by CCF
+
 
 
