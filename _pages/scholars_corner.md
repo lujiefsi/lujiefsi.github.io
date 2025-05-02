@@ -67,8 +67,9 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
 
 ### Academic Rankings and Resources
-- [CCF Rank](https://www.ccf.org.cn/xspj/rjgc/xtrj/cxsjyy/) - Conferences and journals in Rank A are the best
+- [CCF Rank](https://www.ccf.org.cn/Academic_Evaluation/By_category/) - Conferences and journals in Rank A are the best
 - [CORE Rank](http://www.core.edu.au/conference-portal) - Conferences and journals in Rank A* are the best
 - [CSRankings: Computer Science Rankings](http://csrankings.org/)
+- [CCF DDL](https://ccfddl.com/) - Track submission deadlines for conferences recommended by CCF
 
 
