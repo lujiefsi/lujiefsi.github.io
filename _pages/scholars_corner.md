@@ -24,35 +24,34 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
 - [How to read a paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20a%20paper.pdf) by S. Keshav @ University of Waterloo
 
-### Self-Learning Resources
 
-#### Software Engineering Research
+### Software Engineering Research
 - [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
 - [Writing Good Software Engineering Research Papers](http://www-2.cs.cmu.edu/~Compose/shaw-icse03.pdf) by Mary Shaw
 - [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
 
-#### Reading Academic Papers
+### Reading Academic Papers
 - [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) by Srinivasan Keshav
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 
-#### Writing Skills
+### Writing Skills
 - [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
 - [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) by Tao Xie
 - [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
 - [English Writing Suggestions for Chinese-Speaking Students](http://bethune.yorku.ca/files/2012/10/WritingForChinese2012.pdf) by Robert L. Fisher
 - [Writing a Progress/Status Report](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) by Michael Ernst
 
-#### Presentation Skills
+### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
 - [How to Give a Good Research Talk](https://www.st.cs.uni-saarland.de/zeller/GoodTalk.pdf) by Andreas Zeller
 - [Oral Presentation Skills](http://taoxie.cs.illinois.edu/publications/oral_presentation_skills.pdf)
 
-#### Thesis Writing
+### Thesis Writing
 - [How to Organize Your Thesis](http://www.sce.carleton.ca/faculty/chinneck/thesis.html) by John W. Chinneck
 - [How to Write a PhD Thesis](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf) by Steve Easterbrook
 - [Writing and Presenting Your Thesis or Dissertation](http://www.learnerassociates.net/dissthes/) by S. Joseph Levine
 
-#### Research Methodology
+### Research Methodology
 - [Advice to a Beginning Graduate Student](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
 - [Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html) by Tao Xie
 - [PhD-Program Preparation for Successful Post-PhD Career](http://taoxie.cs.illinois.edu/advice/preparecareer.pdf) by Tao Xie
@@ -65,11 +64,11 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [一个博士生在科研大组的生存指南](https://wsdou.github.io/advice/phd%20survival-chen.pdf) by 陈怡然
 - [给研究生的一些忠告](https://wsdou.github.io/advice/modest%20advice.pdf) by Stephen C. Stearns
 
-#### Recommended Books
+### Recommended Books
 - [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
 - [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
 
-#### Academic Rankings and Resources
+### Academic Rankings and Resources
 - [CCF Rank](https://www.ccf.org.cn/xspj/rjgc/xtrj/cxsjyy/) - Conferences and journals in Rank A are the best
 - [CORE Rank](http://www.core.edu.au/conference-portal) - Conferences and journals in Rank A* are the best
 - [CSRankings: Computer Science Rankings](http://csrankings.org/)
