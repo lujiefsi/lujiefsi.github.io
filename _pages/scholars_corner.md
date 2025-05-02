@@ -22,7 +22,11 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to read, write, present papers](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20write%20and%20present%20paper.%20by%20Nitin%20H.%20Vaidya%20UIUC.ppt) by Nitin H. Vaidya @ University of Illinois at Urbana-Champaign
 - [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
 - [How to read a paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20a%20paper.pdf) by S. Keshav @ University of Waterloo
-
+- [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
+- [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) by Tao Xie
+- [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
+- [English Writing Suggestions for Chinese-Speaking Students](http://bethune.yorku.ca/files/2012/10/WritingForChinese2012.pdf) by Robert L. Fisher
+- [Writing a Progress/Status Report](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) by Michael Ernst
 
 ### Software Engineering Research
 - [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
@@ -33,12 +37,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) by Srinivasan Keshav
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 
-### Writing Skills
-- [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
-- [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) by Tao Xie
-- [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
-- [English Writing Suggestions for Chinese-Speaking Students](http://bethune.yorku.ca/files/2012/10/WritingForChinese2012.pdf) by Robert L. Fisher
-- [Writing a Progress/Status Report](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) by Michael Ernst
+
 
 ### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
