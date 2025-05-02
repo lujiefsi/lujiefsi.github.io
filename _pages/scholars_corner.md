@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 ## Welcome to Scholar's Corner
-This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from other professors, hoping they can be helpful for your academic journey.
+This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from other professors[[wensheng dou](https://wsdou.github.io/advice.html)], hoping they can be helpful for your academic journey.
+
+
 
 ### Academic Writing Tips
 
