@@ -39,7 +39,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 ### Reading Academic Papers
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 - [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
-- [How to read a paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20a%20paper.pdf) by S. Keshav @ University of Waterloo
+
 
 ### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
@@ -89,6 +89,8 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Compiler Construction: Practical Introduction](https://github.com/andrewt0301/CrashCourse/tree/master/Samsung%20Compiler%20BootCamp/Slides) by Eugene Zouev, Dmitry Botcharnikov, and Sergey Ignatov, Samsung Research Russia (2019)
 - [Static Program Analysis](https://tai-e.pascal-lab.net/lectures.html) by Tian Tan and Yue Li, Nanjing University (2020)
 - [Program Analysis](https://software-lab.org/teaching/winter2021/pa/) by Michael Pradel, University of Stuttgart (2021)
+- [软件分析技术/Software Analysis](https://xiongyingfei.github.io/index_cn.html) by 熊英飞/Yingfei Xiong
+
  
 ### Recommended Books
 - [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811) by Alfred Aho, Jeffrey Ullman, Ravi Sethi, and Monica Lam (2nd edition, 2006) - The "Dragon Book"
