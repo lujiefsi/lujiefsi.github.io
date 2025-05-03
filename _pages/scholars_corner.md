@@ -82,11 +82,15 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
 
 ### Recommended Courses 
-- [self-learning guide to computer science](https://csdiy.wiki/en/)
-- [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller
+- [self-learning guide to computer science/计算机自学指南](https://csdiy.wiki/en/)
+- [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller and Michael I. Schwartzbach, Aarhus University (2021)
+- [Program Analysis](https://cmu-program-analysis.github.io/2022/index.html) ([Lecture notes](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io/blob/master/2022/resources/program-analysis.pdf)) by Jonathan Aldrich, Claire Le Goues, and Rohan Padhye, Carnegie Mellon University (2022)
+- [Foundations and Applications of Program Analysis](https://github.com/wei-le/programanalysiscourse) by Wei Le, Iowa State University (2021)
+- [Compiler Construction: Practical Introduction](https://github.com/andrewt0301/CrashCourse/tree/master/Samsung%20Compiler%20BootCamp/Slides) by Eugene Zouev, Dmitry Botcharnikov, and Sergey Ignatov, Samsung Research Russia (2019)
+- [Static Program Analysis](https://tai-e.pascal-lab.net/lectures.html) by Tian Tan and Yue Li, Nanjing University (2020)
+- [Program Analysis](https://software-lab.org/teaching/winter2021/pa/) by Michael Pradel, University of Stuttgart (2021)
  
 ### Recommended Books
-#### Program Analysis and Compiler Books
 - [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811) by Alfred Aho, Jeffrey Ullman, Ravi Sethi, and Monica Lam (2nd edition, 2006) - The "Dragon Book"
 - [Advanced Compiler Design and Implementation](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204) by Steven Muchnick (1st edition, 1997)
 - [Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X) by Terence Parr (1st Edition, 2010)
@@ -94,15 +98,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930) by Robert Nystrom (2021)
 - [The Definitive ANTLR 4 Reference](https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/) by Terence Parr (2013)
 - [Getting Started with LLVM Core Libraries](https://www.amazon.com/Getting-Started-LLVM-Core-Libraries/dp/1782166920) by Bruno Cardoso Lopes and Rafael Auler (2014)
-
-#### Program Analysis Courses
-- [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller and Michael I. Schwartzbach, Aarhus University (2021)
-- [Program Analysis](https://cmu-program-analysis.github.io/2022/index.html) ([Lecture notes](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io/blob/master/2022/resources/program-analysis.pdf)) by Jonathan Aldrich, Claire Le Goues, and Rohan Padhye, Carnegie Mellon University (2022)
-- [Foundations and Applications of Program Analysis](https://github.com/wei-le/programanalysiscourse) by Wei Le, Iowa State University (2021)
-- [Compiler Construction: Practical Introduction](https://github.com/andrewt0301/CrashCourse/tree/master/Samsung%20Compiler%20BootCamp/Slides) by Eugene Zouev, Dmitry Botcharnikov, and Sergey Ignatov, Samsung Research Russia (2019)
-- [Static Program Analysis](https://tai-e.pascal-lab.net/lectures.html) by Tian Tan and Yue Li, Nanjing University (2020)
-- [Program Analysis](https://software-lab.org/teaching/winter2021/pa/) by Michael Pradel, University of Stuttgart (2021)
-
 
 ### Academic Rankings and Resources
 - [CCF Rank](https://www.ccf.org.cn/Academic_Evaluation/By_category/) - Conferences and journals in Rank A are the best
