@@ -58,9 +58,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [如何写好Rebuttal](https://mp.weixin.qq.com/s/a7Y6wQVVrZxp3KowH-CRzw) by G.O.S.S.I.P 阅读推荐
 - [浅谈学术论文rebuttal](https://mp.weixin.qq.com/s/gfvihSRMlFM5tIqJbJSiZw) by 魏秀参
 
-### Reading Academic Papers
-- [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
-- [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
+
 
 
 ### Presentation Skills
@@ -79,6 +77,9 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [中文技术文档的写作规范](https://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
 
+### Reading Academic Papers
+- [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
+- [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
 
 ### Recommended Courses 
 - [self-learning guide to computer science/计算机自学指南](https://csdiy.wiki/en/)
