@@ -52,6 +52,11 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to Write a PhD Thesis](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf) by Steve Easterbrook
 - [Writing and Presenting Your Thesis or Dissertation](http://www.learnerassociates.net/dissthes/) by S. Joseph Levine
 - [永威的论文撰写十定律](https://yongwei.site/zh/yongweis-ten-rules-of-paper-writing/) by 赵永威
+
+### 中文写作
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [中文技术文档的写作规范](https://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
+
  
 ### Research Methodology
 - [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ) by 刘哲理 @ 南开大学 (Chinese)
