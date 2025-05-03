@@ -21,7 +21,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [The Researchers' Bible](https://kdelab.ustc.edu.cn/~jpq/writing/The%20Researchers%20Bible.pdf) by Alan Bundy, Ben du Boulay, Jim Howe and Gordon Plotkin @ University of Edinburgh
 - [How to read, write, present papers](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20write%20and%20present%20paper.%20by%20Nitin%20H.%20Vaidya%20UIUC.ppt) by Nitin H. Vaidya @ University of Illinois at Urbana-Champaign
 - [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
-- [How to read a paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20a%20paper.pdf) by S. Keshav @ University of Waterloo
 - [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
 - [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) by Tao Xie
 - [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
@@ -40,6 +39,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 ### Reading Academic Papers
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 - [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
+- [How to read a paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20a%20paper.pdf) by S. Keshav @ University of Waterloo
 
 ### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
