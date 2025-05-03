@@ -30,10 +30,10 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to write a good systems paper](https://www.usenix.org/legacy/event/samples/submit/advice.html) from USENIX
 - [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan
 
-### Software Engineering Research
-- [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
-- [Writing Good Software Engineering Research Papers](http://www-2.cs.cmu.edu/~Compose/shaw-icse03.pdf) by Mary Shaw
-- [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
+### Rebuttal
+- [如何写学术论文的rebuttal？](https://mp.weixin.qq.com/s/8apGESDEEv3nPeOA3KvhQQ) (Chinese) - Tips for writing effective paper rebuttals
+
+
 
 ### Reading Academic Papers
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
@@ -51,6 +51,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Writing and Presenting Your Thesis or Dissertation](http://www.learnerassociates.net/dissthes/) by S. Joseph Levine
 
 ### Research Methodology
+- [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ) by 刘哲理 @ 南开大学 (Chinese)
 - [Advice to a Beginning Graduate Student](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
 - [Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html) by Tao Xie
 - [PhD-Program Preparation for Successful Post-PhD Career](http://taoxie.cs.illinois.edu/advice/preparecareer.pdf) by Tao Xie
@@ -67,6 +68,9 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [How to do great research](https://greatresearch.org/blog/)
 - [Mike Dahlin's advice to systems researchers](https://www.cs.utexas.edu/~dahlin/advice.html)
 - [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+- [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
+- [Writing Good Software Engineering Research Papers](http://www-2.cs.cmu.edu/~Compose/shaw-icse03.pdf) by Mary Shaw
+- [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
 
 ### Recommended Books
 - [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
