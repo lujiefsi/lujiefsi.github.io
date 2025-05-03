@@ -90,6 +90,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Static Program Analysis](https://tai-e.pascal-lab.net/lectures.html) by Tian Tan and Yue Li, Nanjing University (2020)
 - [Program Analysis](https://software-lab.org/teaching/winter2021/pa/) by Michael Pradel, University of Stuttgart (2021)
 - [软件分析技术/Software Analysis](https://xiongyingfei.github.io/index_cn.html) by 熊英飞/Yingfei Xiong
+- [Computer Security](https://textbook.cs161.org/) by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai
 
  
 ### Recommended Books
@@ -100,6 +101,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930) by Robert Nystrom (2021)
 - [The Definitive ANTLR 4 Reference](https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/) by Terence Parr (2013)
 - [Getting Started with LLVM Core Libraries](https://www.amazon.com/Getting-Started-LLVM-Core-Libraries/dp/1782166920) by Bruno Cardoso Lopes and Rafael Auler (2014)
+- [Computer Security](https://textbook.cs161.org/textbook_full.pdf)
 
 ### Academic Rankings and Resources
 - [CCF Rank](https://www.ccf.org.cn/Academic_Evaluation/By_category/) - Conferences and journals in Rank A are the best
