@@ -29,6 +29,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Writing a Progress/Status Report](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) by Michael Ernst
 - [How to write a good systems paper](https://www.usenix.org/legacy/event/samples/submit/advice.html) from USENIX
 - [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan
+- [Writing Good Software Engineering Research Papers](http://www-2.cs.cmu.edu/~Compose/shaw-icse03.pdf) by Mary Shaw
 
 ### Rebuttal
 - [如何写学术论文的rebuttal？](https://mp.weixin.qq.com/s/8apGESDEEv3nPeOA3KvhQQ) (Chinese) - Tips for writing effective paper rebuttals
@@ -69,7 +70,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Mike Dahlin's advice to systems researchers](https://www.cs.utexas.edu/~dahlin/advice.html)
 - [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 - [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
-- [Writing Good Software Engineering Research Papers](http://www-2.cs.cmu.edu/~Compose/shaw-icse03.pdf) by Mary Shaw
 - [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
 
 ### Recommended Books
