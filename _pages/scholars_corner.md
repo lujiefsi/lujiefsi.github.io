@@ -5,11 +5,34 @@ author_profile: true
 ---
 
 ## Welcome to Scholar's Corner
-This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from various professors' personal websites, such as [Wensheng Dou](https://wsdou.github.io/advice.html), [Peiquan Jin](https://kdelab.ustc.edu.cn/~jpq/links.html), [Yongle Zhang](https://yonglezh-purdue.github.io/links/), and others, hoping they can be helpful for your academic journey.
+This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from various professors' personal websites, hoping they can be helpful for your academic journey.
 
+
+### Research Methodology
+- [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ) by 刘哲理 @ 南开大学 (Chinese)
+- [Advice to a Beginning Graduate Student](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
+- [Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html) by Tao Xie
+- [PhD-Program Preparation for Successful Post-PhD Career](http://taoxie.cs.illinois.edu/advice/preparecareer.pdf) by Tao Xie
+- [Mapping out a Research Agenda](http://taoxie.cs.illinois.edu/publications/researchagenda.pdf) by Tao Xie
+- [Graduate Student Survival/Success Guide](http://taoxie.cs.illinois.edu/advice/gradstudentsurvival.pdf) by Tao Xie
+- [Notes on the PhD Degree](https://www.cs.purdue.edu/homes/dec/essay.phd.html) by Douglas E. Comer
+- [Doing a Systems PhD](https://wsdou.github.io/advice/doing%20a%20systems%20phd.pdf) by Steve Hand
+- [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
+- [好的研究想法从哪里来](https://zhuanlan.zhihu.com/p/93765082) by 刘知远
+- [一个博士生在科研大组的生存指南](https://wsdou.github.io/advice/phd%20survival-chen.pdf) by 陈怡然
+- [给研究生的一些忠告](https://wsdou.github.io/advice/modest%20advice.pdf) by Stephen C. Stearns
+- [Doing a System Ph.D](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf) by Steven Hand
+- [Productivity tips, tricks and hacks for academics](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
+- [How to do great research](https://greatresearch.org/blog/)
+- [Mike Dahlin's advice to systems researchers](https://www.cs.utexas.edu/~dahlin/advice.html)
+- [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+- [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
+- [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
+- [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
+- [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
 
 ### Academic Writing Tips
-
+- [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
 - [A simple (incomplete) checklist for writing papers](http://www.ece.umn.edu/users/sachin/misc/writing.html) by Sachin Sapatnekar @ University of Minnesota
 - [How to write a great research paper](https://kdelab.ustc.edu.cn/~jpq/writing/how%20to%20write%20a%20great%20research%20paper-by%20Simon%20Peyton%20Jones.ppt) by Simon Peyton Jones @ Microsoft Research Cambridge
 - [On Writing High Quality Technical Papers](https://kdelab.ustc.edu.cn/~jpq/writing/HongjunLu.ppt) by Hongjun Lu @ HKUST
@@ -20,7 +43,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Checklist to use before your submission](https://kdelab.ustc.edu.cn/~jpq/writing/checklist.pdf)
 - [The Researchers' Bible](https://kdelab.ustc.edu.cn/~jpq/writing/The%20Researchers%20Bible.pdf) by Alan Bundy, Ben du Boulay, Jim Howe and Gordon Plotkin @ University of Edinburgh
 - [How to read, write, present papers](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20read%20write%20and%20present%20paper.%20by%20Nitin%20H.%20Vaidya%20UIUC.ppt) by Nitin H. Vaidya @ University of Illinois at Urbana-Champaign
-- [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
 - [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
 - [How to Write Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) by Tao Xie
 - [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
@@ -57,29 +79,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [中文技术文档的写作规范](https://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
 
- 
-### Research Methodology
-- [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ) by 刘哲理 @ 南开大学 (Chinese)
-- [Advice to a Beginning Graduate Student](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
-- [Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html) by Tao Xie
-- [PhD-Program Preparation for Successful Post-PhD Career](http://taoxie.cs.illinois.edu/advice/preparecareer.pdf) by Tao Xie
-- [Mapping out a Research Agenda](http://taoxie.cs.illinois.edu/publications/researchagenda.pdf) by Tao Xie
-- [Graduate Student Survival/Success Guide](http://taoxie.cs.illinois.edu/advice/gradstudentsurvival.pdf) by Tao Xie
-- [Notes on the PhD Degree](https://www.cs.purdue.edu/homes/dec/essay.phd.html) by Douglas E. Comer
-- [Doing a Systems PhD](https://wsdou.github.io/advice/doing%20a%20systems%20phd.pdf) by Steve Hand
-- [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
-- [好的研究想法从哪里来](https://zhuanlan.zhihu.com/p/93765082) by 刘知远
-- [一个博士生在科研大组的生存指南](https://wsdou.github.io/advice/phd%20survival-chen.pdf) by 陈怡然
-- [给研究生的一些忠告](https://wsdou.github.io/advice/modest%20advice.pdf) by Stephen C. Stearns
-- [Doing a System Ph.D](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf) by Steven Hand
-- [Productivity tips, tricks and hacks for academics](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
-- [How to do great research](https://greatresearch.org/blog/)
-- [Mike Dahlin's advice to systems researchers](https://www.cs.utexas.edu/~dahlin/advice.html)
-- [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
-- [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
-- [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
-- [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
-- [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
 
 ### Recommended Courses 
 - [self-learning guide to computer science/计算机自学指南](https://csdiy.wiki/en/)
