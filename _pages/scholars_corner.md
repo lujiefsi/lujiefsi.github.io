@@ -35,6 +35,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [如何写学术论文的rebuttal？](https://mp.weixin.qq.com/s/8apGESDEEv3nPeOA3KvhQQ) (Chinese) - Tips for writing effective paper rebuttals
 - [Rebuttal How-To: Strategies, Tactics, and the Big Picture in Research](https://cacm.acm.org/opinion/rebuttal-how-to-strategies-tactics-and-the-big-picture-in-research/)  by Danfeng (Daphne) Yao
 - [如何写好Rebuttal](https://mp.weixin.qq.com/s/a7Y6wQVVrZxp3KowH-CRzw) by G.O.S.S.I.P 阅读推荐
+- [浅谈学术论文rebuttal](https://mp.weixin.qq.com/s/gfvihSRMlFM5tIqJbJSiZw) by 魏秀参
 
 ### Reading Academic Papers
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
