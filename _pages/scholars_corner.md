@@ -36,7 +36,6 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Doing Research in Software Analysis: Lessons and Tips](https://wsdou.github.io/advice/research%20tips-su.pdf) by Zhendong Su
 
 ### Reading Academic Papers
-- [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) by Srinivasan Keshav
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
 - [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
 
