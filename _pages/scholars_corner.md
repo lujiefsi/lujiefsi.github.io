@@ -96,8 +96,7 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Compiler Construction: Practical Introduction](https://github.com/andrewt0301/CrashCourse/tree/master/Samsung%20Compiler%20BootCamp/Slides) by Eugene Zouev, Dmitry Botcharnikov, and Sergey Ignatov, Samsung Research Russia (2019)
 - [Static Program Analysis](https://tai-e.pascal-lab.net/lectures.html) by Tian Tan and Yue Li, Nanjing University (2020)
 - [Program Analysis](https://software-lab.org/teaching/winter2021/pa/) by Michael Pradel, University of Stuttgart (2021)
-- [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
-- [Mastering Your PhD - Survival and Success in the Doctoral Years and Beyond](http://www.springer.com/us/book/9783642158469) by Patricia Gosling and Bart Noordam
+
 
 ### Academic Rankings and Resources
 - [CCF Rank](https://www.ccf.org.cn/Academic_Evaluation/By_category/) - Conferences and journals in Rank A are the best
