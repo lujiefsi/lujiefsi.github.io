@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Welcome to Scholar's Corner
-This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from various professors' personal websites, such as [Wensheng Dou](https://wsdou.github.io/advice.html), [Peiquan Jin](https://kdelab.ustc.edu.cn/~jpq/links.html), and others, hoping they can be helpful for your academic journey.
+This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from various professors' personal websites, such as [Wensheng Dou](https://wsdou.github.io/advice.html), [Peiquan Jin](https://kdelab.ustc.edu.cn/~jpq/links.html), [Yongle Zhang](https://yonglezh-purdue.github.io/links/), and others, hoping they can be helpful for your academic journey.
 
 
 ### Academic Writing Tips
@@ -27,6 +27,8 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [Common Technical Writing Issues](http://taoxie.cs.illinois.edu/publications/writeissues.pdf) by Tao Xie
 - [English Writing Suggestions for Chinese-Speaking Students](http://bethune.yorku.ca/files/2012/10/WritingForChinese2012.pdf) by Robert L. Fisher
 - [Writing a Progress/Status Report](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) by Michael Ernst
+- [How to write a good systems paper](https://www.usenix.org/legacy/event/samples/submit/advice.html) from USENIX
+- [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan
 
 ### Software Engineering Research
 - [What Makes Good Research in Software Engineering](http://www-2.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) by Mary Shaw
@@ -36,12 +38,13 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 ### Reading Academic Papers
 - [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) by Srinivasan Keshav
 - [You are How You Read (读论文的三个层次)](https://wsdou.github.io/advice/how%20to%20read-shum.pdf) by 沈向洋
-
+- [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav @ University of Waterloo
 
 ### Presentation Skills
 - [How to Give a Technical Presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
 - [How to Give a Good Research Talk](https://www.st.cs.uni-saarland.de/zeller/GoodTalk.pdf) by Andreas Zeller
 - [Oral Presentation Skills](http://taoxie.cs.illinois.edu/publications/oral_presentation_skills.pdf)
+- [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html) by John Ousterhout
 
 ### Thesis Writing
 - [How to Organize Your Thesis](http://www.sce.carleton.ca/faculty/chinneck/thesis.html) by John W. Chinneck
@@ -60,6 +63,11 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [好的研究想法从哪里来](https://zhuanlan.zhihu.com/p/93765082) by 刘知远
 - [一个博士生在科研大组的生存指南](https://wsdou.github.io/advice/phd%20survival-chen.pdf) by 陈怡然
 - [给研究生的一些忠告](https://wsdou.github.io/advice/modest%20advice.pdf) by Stephen C. Stearns
+- [Doing a System Ph.D](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf) by Steven Hand
+- [Productivity tips, tricks and hacks for academics](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
+- [How to do great research](https://greatresearch.org/blog/)
+- [Mike Dahlin's advice to systems researchers](https://www.cs.utexas.edu/~dahlin/advice.html)
+- [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 
 ### Recommended Books
 - [Crafting Your Research Future - A Guide to Successful Master and PhD Degrees in Science & Engineering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6813064&) by Charles X. Ling and Qiang Yang
@@ -70,6 +78,4 @@ This page is dedicated to sharing academic resources, insights, and personal ref
 - [CCF DDL](https://ccfddl.com/) - Track submission deadlines for conferences recommended by CCF
 - [CORE Rank](http://www.core.edu.au/conference-portal) - Conferences and journals in Rank A* are the best
 - [CSRankings: Computer Science Rankings](http://csrankings.org/)
-
-
-
+- [System Conference Deadlines](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
