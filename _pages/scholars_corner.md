@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Welcome to Scholar's Corner
-This page is dedicated to sharing academic resources, insights, and personal reflections that may help researchers and students in their academic journey. The following links are resources collected from various professors' personal websites, hoping they can be helpful for your academic journey.
+TThe following links are resources collected from various professors' personal websites and other online resources, hoping they can be helpful for your academic journey.
 
 
 ### Research Methodology
