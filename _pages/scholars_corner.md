@@ -33,6 +33,8 @@ TThe following links are resources collected from various professors' personal w
 
 ### Academic Writing Tips
 - [How to write a good English paper](https://kdelab.ustc.edu.cn/~jpq/writing/yaoqi.pdf) by Yaoqi Zhou @ Indiana University
+- [A final sanity checklist to help your CS paper get accepted, not desk rejected.](https://github.com/yzhao062/cs-paper-checklist) by Yue ZHAO @ University of California
+- [How to write a good paper](https://kdelab.ustc.edu.cn/~jpq/writing/How%20to%20write%20a%20good%20paper.pdf) by Jianming Xu @ USTC
 - [A simple (incomplete) checklist for writing papers](http://www.ece.umn.edu/users/sachin/misc/writing.html) by Sachin Sapatnekar @ University of Minnesota
 - [How to write a great research paper](https://kdelab.ustc.edu.cn/~jpq/writing/how%20to%20write%20a%20great%20research%20paper-by%20Simon%20Peyton%20Jones.ppt) by Simon Peyton Jones @ Microsoft Research Cambridge
 - [On Writing High Quality Technical Papers](https://kdelab.ustc.edu.cn/~jpq/writing/HongjunLu.ppt) by Hongjun Lu @ HKUST
