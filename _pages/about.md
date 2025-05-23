@@ -65,6 +65,9 @@ I am broadly interested in computer security, and my research frequently interse
 
 
 ### 2025
+- **Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields**  
+  Hao Zhang, Jie Lu, Shaomin Chen, Tianshuo Han, Bolun Zhang, Jian Liu, Xiaorui Gong  
+  *ACM Conference on Computer and Communications Security (CCS'25)*
 - **VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis**  
   Liqing Cao, Haofeng Li, Chenghang Shi, Jie Lu, Haining Meng, Lian Li, Jingling Xue  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'25)*
