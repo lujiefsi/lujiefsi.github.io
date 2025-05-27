@@ -10,6 +10,7 @@ TThe following links are resources collected from various professors' personal w
 
 ### Research Methodology
 - [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ) by 刘哲理 @ 南开大学 (Chinese)
+- [论文经验](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk1NzgzMzAwNw==&action=getalbum&album_id=3928387734569713678&subscene=159&subscene=189&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk1NzgzMzAwNw%3D%3D%26mid%3D2247484340%26idx%3D1%26sn%3D198139b7032b30309823284acfafb0b9%26chksm%3Dc3d909f4f4ae80e2c254fc5d946b38d620c1a1fb7ea5c4d821015ee5f43ae18c08a73706ea18%26cur_album_id%3D3928387734569713678%26scene%3D189%23wechat_redirect&nolastread=1#wechat_redirect)  (Chinese)
 - [Advice to a Beginning Graduate Student](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
 - [Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html) by Tao Xie
 - [PhD-Program Preparation for Successful Post-PhD Career](http://taoxie.cs.illinois.edu/advice/preparecareer.pdf) by Tao Xie
