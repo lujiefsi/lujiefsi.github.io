@@ -15,6 +15,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 
 ## News 📰
+* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by USENIX Security2025
 * <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by CCS2025
 * <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by FSE2025
 * <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by internetware2025
