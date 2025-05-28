@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+
+.new-badge {
+  display: inline-block;
+  color: #F7B32B;
+  font-weight: bold;
+  animation: blink 1.5s infinite;
+}
+</style>
 # About Me 👋
 
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
@@ -15,10 +29,10 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 
 ## News 📰
-* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by USENIX Security2025
-* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by CCS2025
-* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by FSE2025
-* <span style="color:#F7B32B">NEW!</span> April 2025: One paper is accepted by internetware2025
+* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025
+* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025
+* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025
+* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by internetware2025
 
 
 ---
