@@ -29,6 +29,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 
 ## News 📰
+* <span class="new-badge">NEW!</span> April 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025
 * <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025
 * <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025
 * <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025
