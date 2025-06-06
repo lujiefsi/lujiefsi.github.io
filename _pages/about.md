@@ -61,8 +61,6 @@ I am broadly interested in computer security, and my research frequently interse
 
 ## Recruiting 🎓
 
-**We're actively seeking talented researchers!**
-
 ### Who We're Looking For
 - 🔍 Potential Ph.D. candidates
 - 📚 Master students
@@ -88,7 +86,7 @@ I am broadly interested in computer security, and my research frequently interse
   Liqing Cao, Haofeng Li, Chenghang Shi, Jie Lu, Haining Meng, Lian Li, Jingling Xue  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'25)*
 
-- **SLVHound: Static Detection of Session Lingering Vulnerabilities in Modern Java Web Applications**  
+- **SLVHound: Static Detection of Session Lingering Vulnerabilities in Modern Java Web Applications**🏆    
   Haining Meng, Jie Lu<sup>✉</sup>, Yongheng Huang, Lian Li<sup>✉</sup>  
   *The 16th International Conference on Internetware (Internetware'25)*
 
