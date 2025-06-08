@@ -21,12 +21,31 @@ redirect_from:
   font-weight: bold;
   animation: blink 1.5s infinite;
 }
+
+.news-container .news-item:nth-child(n+4) {
+  display: none;
+}
+
+.news-container.expanded .news-item {
+  display: block;
+}
+
+.news-toggle {
+  color: #0366d6;
+  cursor: pointer;
+  margin-top: 10px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.news-toggle:hover {
+  text-decoration: underline;
+}
 </style>
+
 # About Me 👋
 
 I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
-
-
 
 ## News 📰
 <div class="news-container">
@@ -52,6 +71,7 @@ function toggleNews(element) {
 </script>
 
 ---
+
 
 
 ## Research Interests 🔬
