@@ -29,14 +29,30 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 
 ## News 📰
-* <span class="new-badge">NEW!</span> April 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025
-* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025
-* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025
-* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025
-* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by internetware2025
+<div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by internetware2025</div>
+</div>
+<div class="news-toggle" onclick="toggleNews(this)">Show more news...</div>
 
+<script>
+function toggleNews(element) {
+  const container = document.querySelector('.news-container');
+  container.classList.toggle('expanded');
+  
+  if (container.classList.contains('expanded')) {
+    element.textContent = 'Show fewer news...';
+  } else {
+    element.textContent = 'Show more news...';
+  }
+}
+</script>
 
 ---
+
 
 ## Research Interests 🔬
 
