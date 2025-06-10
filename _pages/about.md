@@ -41,39 +41,6 @@ redirect_from:
 .news-toggle:hover {
   text-decoration: underline;
 }
-/* 增加页面宽度的CSS */
-@media (min-width: 925px) {
-  .page {
-    float: right;
-    width: 85%;
-    margin-right: 0;
-    padding-right: 0;
-  }
-  
-  .page__inner-wrap {
-    margin-right: 0;
-    width: 100%;
-  }
-  
-  /* 隐藏内容区域中重复的标题 */
-  .page__content h1:first-of-type,
-  .page__content h1 + p {
-    display: none;
-  }
-  
-  /* 移除About Me标题下方的重复内容 */
-  #about-me + p {
-    display: none;
-  }
-}
-
-@media (min-width: 1280px) {
-  #main {
-    max-width: 1600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
 
 </style>
 
