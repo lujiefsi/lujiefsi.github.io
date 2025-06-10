@@ -45,10 +45,13 @@ redirect_from:
 @media (min-width: 925px) {
   .page {
     float: right;
-    width: 90%;
+    width: 80%;
     margin-right: 0;
     padding-right: 0;
-    padding-left: 0;
+  }
+  
+  .sidebar {
+    width: 18%;
   }
   
   .page__inner-wrap {
@@ -59,10 +62,15 @@ redirect_from:
 
 @media (min-width: 1280px) {
   #main {
-    max-width: 1500px;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .page {
+    padding-left: 2em;
   }
 }
-
 </style>
 
 # About Me 👋
