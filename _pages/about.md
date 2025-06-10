@@ -40,6 +40,41 @@ redirect_from:
 .news-toggle:hover {
   text-decoration: underline;
 }
+
+
+/* 关键修改：增加内容区域宽度且保持左侧不变 */
+@media (min-width: 80em) {
+  .greedy-nav {
+    width: 100%;
+  }
+  
+  .page {
+    width: calc(100% - 250px);
+    margin-right: 0;
+    padding-right: 0;
+  }
+  
+  .sidebar {
+    width: 250px;
+    margin-left: -250px;
+  }
+  
+  .page__inner-wrap {
+    overflow-x: auto;
+  }
+  
+  /* 保持内容区在容器内可水平滚动 */
+  .page__content {
+    overflow-x: auto;
+    max-width: none;
+  }
+}
+
+/* 确保较长标题区域有更多空间 */
+.archive__item-title {
+  word-break: normal;
+}
+
 </style>
 
 # About Me 👋
