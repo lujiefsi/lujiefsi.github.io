@@ -54,6 +54,17 @@ redirect_from:
     margin-right: 0;
     width: 100%;
   }
+  
+  /* 隐藏内容区域中重复的标题 */
+  .page__content h1:first-of-type,
+  .page__content h1 + p {
+    display: none;
+  }
+  
+  /* 移除About Me标题下方的重复内容 */
+  #about-me + p {
+    display: none;
+  }
 }
 
 @media (min-width: 1280px) {
@@ -63,6 +74,7 @@ redirect_from:
     margin-right: auto;
   }
 }
+
 </style>
 
 # About Me 👋
@@ -93,6 +105,7 @@ function toggleNews(element) {
 </script>
 
 ---
+
 
 ## Research Interests 🔬
 
