@@ -94,29 +94,6 @@ function toggleNews(element) {
 
 ---
 
-
-
-## Research Interests 🔬
-
-I am broadly interested in computer security, and my research frequently intersects with:
-
-- **Software Security**: 
-  - Vulnerability detection and prevention
-  - Security enhancement in open-source software
-  - Bug detection and analysis
-
-- **Program Analysis**: 
-  - Static and dynamic analysis techniques
-  - Context-sensitive pointer analysis
-  - IFDS analysis optimization
-
-- **Cloud Systems**: 
-  - Distributed system security
-  - Crash-recovery bug detection
-  - Concurrency bug detection
-
----
-
 ## Research Interests 🔬
 
 My research focuses on:
