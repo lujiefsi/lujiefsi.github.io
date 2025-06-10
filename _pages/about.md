@@ -95,19 +95,21 @@ I am broadly interested in computer security, and my research frequently interse
 
 ---
 
+## Research Interests 🔬
+
+My research focuses on:
+
+- **Software Security**: Vulnerability detection and prevention in open-source software
+- **Program Analysis**: Static/dynamic analysis techniques, context-sensitive pointer analysis
+- **Cloud Systems**: Distributed system security, crash-recovery and concurrency bug detection
+
+---
+
 ## Recruiting 🎓
 
-### Who We're Looking For
-- 🔍 Potential Ph.D. candidates
-- 📚 Master students
-- 🌱 Research interns
+I'm looking for motivated **PhD candidates** 🔍, **Master students** 📚, and **Research interns** 🌱 interested in software security and program analysis.
 
-
-
-### How to Apply
-- Visit our research group page: [https://ict-pag.github.io/](https://ict-pag.github.io/)
-- Check detailed application information: [https://ict-pag.github.io/joining/](https://ict-pag.github.io/joining/)
-- Feel free to contact me directly if you're passionate about our research areas!
+For details, visit our [research group page](https://ict-pag.github.io/) or [application information](https://ict-pag.github.io/joining/), or contact me directly.
 
 ---
 
