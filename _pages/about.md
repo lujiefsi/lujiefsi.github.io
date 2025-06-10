@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Jie Lu 陆杰"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
