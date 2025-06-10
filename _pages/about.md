@@ -41,6 +41,28 @@ redirect_from:
 .news-toggle:hover {
   text-decoration: underline;
 }
+/* 增加页面宽度的CSS */
+@media (min-width: 925px) {
+  .page {
+    float: right;
+    width: 90%;
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  
+  .page__inner-wrap {
+    margin-right: 0;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1280px) {
+  #main {
+    max-width: 1500px;
+  }
+}
+
 </style>
 
 # About Me 👋
