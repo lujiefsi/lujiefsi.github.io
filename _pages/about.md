@@ -106,8 +106,6 @@ function toggleNews(element) {
 
 ---
 
-
-<<<<<<< HEAD
 ## Research Interests 🔬
 
 My research focuses on:
@@ -115,28 +113,6 @@ My research focuses on:
 - **Software Security**: Vulnerability detection and prevention in open-source software
 - **Program Analysis**: Static/dynamic analysis techniques, context-sensitive pointer analysis
 - **Cloud Systems**: Distributed system security, crash-recovery and concurrency bug detection
-=======
-
-## Research Interests 🔬
-
-I am broadly interested in computer security, and my research frequently intersects with:
-
-- **Software Security**: 
-  - Vulnerability detection and prevention
-  - Security enhancement in open-source software
-  - Bug detection and analysis
-
-- **Program Analysis**: 
-  - Static and dynamic analysis techniques
-  - Context-sensitive pointer analysis
-  - IFDS analysis optimization
-
-- **Cloud Systems**: 
-  - Distributed system security
-  - Crash-recovery bug detection
-  - Concurrency bug detection
->>>>>>> parent of 24c9a05 (Update about.md)
-
 ---
 
 ## Recruiting 🎓
