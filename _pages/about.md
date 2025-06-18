@@ -94,9 +94,14 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 
 ### 2025
+- **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency**  
+  Xinyi Wang, Yeting Li, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, Yang Xiao, Feng Li, Wei Huo  
+  *USENIX Security Symposium (USENIX Security'25)*
+
 - **Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields**  
   Hao Zhang, Jie Lu, Shaomin Chen, Tianshuo Han, Bolun Zhang, Jian Liu, Xiaorui Gong  
   *ACM Conference on Computer and Communications Security (CCS'25)*
+  
 - **VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis**  
   Liqing Cao, Haofeng Li, Chenghang Shi, Jie Lu, Haining Meng, Lian Li, Jingling Xue  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'25)*
