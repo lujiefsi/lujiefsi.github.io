@@ -41,6 +41,45 @@ redirect_from:
   text-decoration: underline;
 }
 
+/* 论文标题优化 */
+.page__content h3 + ul li {
+  margin-bottom: 1.5em;
+  line-height: 1.4;
+}
+
+.page__content h3 + ul li strong {
+  display: block;
+  margin-bottom: 0.3em;
+  line-height: 1.3;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+/* 作者列表优化 */
+.page__content h3 + ul li em {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* 大屏幕优化 */
+@media (min-width: 1200px) {
+  .page__content h3 + ul li strong {
+    font-size: 1.05em;
+  }
+  
+  .page__content h3 + ul li em {
+    font-size: 0.95em;
+  }
+}
+
+/* 超大屏幕优化 */
+@media (min-width: 1400px) {
+  .page__content h3 + ul li strong {
+    font-size: 1.1em;
+  }
+}
 </style>
 
 # About Me 👋
