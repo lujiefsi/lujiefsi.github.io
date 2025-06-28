@@ -99,7 +99,7 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
   *USENIX Security Symposium (USENIX Security'25)*
 
 - **Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields**  
-  Hao Zhang, Jie Lu, Shaomin Chen, Tianshuo Han, Bolun Zhang, Jian Liu, Xiaorui Gong  
+  Hao Zhang, Jian Liu<sup>✉</sup>, Jie Lu<sup>✉</sup>, Shaomin Chen, Tianshuo Han, Bolun Zhang,  Xiaorui Gong  
   *ACM Conference on Computer and Communications Security (CCS'25)*
   
 - **VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis**  
