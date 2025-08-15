@@ -21,7 +21,7 @@ redirect_from:
   animation: blink 1.5s infinite;
 }
 
-.news-container .news-item:nth-child(n+4) {
+.news-container .news-item:nth-child(n+6) {
   display: none;
 }
 
@@ -48,6 +48,8 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: Resource Injection Vulnerabilities paper accepted by ASE 2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: MoYe  accepted by OOPSLA 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025</div>
