@@ -95,6 +95,16 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 
 ### 2025
+
+- **Understanding Resource Injection Vulnerabilities in Kubernetes Ecosystems**  
+  Defang Bo, Jie Lu, Feng Li, Jingting Chen, Jinchen Wang, Chendong Yu, Wei Huo  
+  *IEEE/ACM International Conference on Automated Software Engineering (ASE'25)*
+
+- **Fast Client-Driven CFL-Reachability via Regularization-Based Graph Simplification**  
+  Chenghang Shi, Dongjie He, Haofeng Li, Jie Lu, Lian Li, and Jingling Xue  
+  *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'25)*
+
+
 - **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency**  
   Xinyi Wang, Yeting Li, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, Yang Xiao, Feng Li, Wei Huo  
   *USENIX Security Symposium (USENIX Security'25)*
