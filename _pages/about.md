@@ -51,7 +51,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> July 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by USENIX Security2025</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> June 2025: One paper is accepted by USENIX Security2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by internetware2025</div>
