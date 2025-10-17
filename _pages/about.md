@@ -48,6 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> July 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025</div>
@@ -95,6 +96,10 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 
 ### 2025
+
+- **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**  
+  Kai Zhu, Haofeng Li, Kuihao Yan, Rongqing Wang, Jiaming Guo, Haoran Yang, Jie Lu, Lei Yu, Xiaoqi Jia, Chenkai Guo, Haichao Du, Qingjia Huang, Yamin Xie, Jing Tang  
+  *International Conference on Software Engineering (ICSE'26)*
 
 - **Understanding Resource Injection Vulnerabilities in Kubernetes Ecosystems**  
   Defang Bo, Jie Lu, Feng Li, Jingting Chen, Jinchen Wang, Chendong Yu, Wei Huo  
