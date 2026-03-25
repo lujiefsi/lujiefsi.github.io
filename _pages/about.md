@@ -48,7 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
-  <div class="news-item">* <span class="new-badge">NEW!</span> 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
