@@ -100,7 +100,7 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 - **SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services**  
   Wenbo Hu, Jie Lu, Jingting Chen, Feng Li, Chenghang Shi, Xiaonan Shi, Jinchen Wang, Wei Huo  
-  *ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE '26) - Accepted*
+  *ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE '26)*
 
 - **LifeFuzz: Lifecycle-Guided Fuzzing for Windows Driver Cross-Handler Vulnerabilities**  
   Chendong Yu, Yuekang Li, Yang Xiao, Jie Lu, Yeting Li, Defang Bo, Wei Huo  
