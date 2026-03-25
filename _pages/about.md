@@ -48,6 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
@@ -96,6 +97,14 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 
 ### 2026
+
+- **SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services**  
+  Wenbo Hu, Jie Lu, Jingting Chen, Feng Li, Chenghang Shi, Xiaonan Shi, Jinchen Wang, Wei Huo  
+  *ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE '26) - Accepted*
+
+- **LifeFuzz: Lifecycle-Guided Fuzzing for Windows Driver Cross-Handler Vulnerabilities**  
+  Chendong Yu, Yuekang Li, Yang Xiao, Jie Lu, Yeting Li, Defang Bo, Wei Huo  
+  *EuroSys '26*
 
 - **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**  
   Kai Zhu, Haofeng Li, Kuihao Yan, Rongqing Wang, Jiaming Guo, Haoran Yang, Jie Lu, Lei Yu, Xiaoqi Jia, Chenkai Guo, Haichao Du, Qingjia Huang, Yamin Xie, Jing Tang  
