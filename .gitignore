@@ -1,3 +1,6 @@
 _site/
 
 .vscode/settings.json
+~/.morphcode/telemetry/1p_failed_events.2b81138c-423d-4229-a6fd-5fd263336546.e903c926-b984-4688-85ec-545a19cff07c.json
+~/.morphcode/shell-snapshots/snapshot-bash-1775809348021-96g5by.sh
+/~/.morphcode
