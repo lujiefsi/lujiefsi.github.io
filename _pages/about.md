@@ -49,7 +49,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 ## News 📰
 <div class="news-container">
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2026: Theseus, a smart web crawler, is accepted by CCS 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026; CFL Reachability paper accepted by OOPSLA 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
@@ -102,6 +102,10 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 - **SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services**  
   Wenbo Hu, Jie Lu, Jingting Chen, Feng Li, Chenghang Shi, Xiaonan Shi, Jinchen Wang, Wei Huo  
   *ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE '26)*
+
+- **Context-Free Language Reachability via Efficient Relation Chaining**  
+  Chenghang Shi, Haofeng Li, Jie Lu, Lian Li  
+  *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA '26)*
 
 - **LifeFuzz: Lifecycle-Guided Fuzzing for Windows Driver Cross-Handler Vulnerabilities**  
   Chendong Yu, Yuekang Li, Yang Xiao, Jie Lu, Yeting Li, Defang Bo, Wei Huo  
