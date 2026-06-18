@@ -48,6 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: Hermes is accepted by ASE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2026: Theseus, a smart web crawler, is accepted by CCS 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026; CFL Reachability paper accepted by OOPSLA 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
@@ -98,6 +99,14 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 
 ### 2026
+
+- **Tracing the Invisible: Semantic Message Flow Discovery via Data Contracts in Real-World Distributed Systems**
+  Youlong Chen, Jie Lu<sup>✉</sup>, Mengna Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li
+  *IEEE/ACM International Conference on Automated Software Engineering (ASE'26)*
+
+- **THESEUS: Smart Web Crawling via Resource-Guided Semantic Modeling**
+  Yongheng Huang, Chenghang Shi, Wenxiao Yao, Jie Lu<sup>✉</sup>, Haofeng Li, Youlong Chen, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li
+  *ACM Conference on Computer and Communications Security (CCS'26)*
 
 - **SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services**  
   Wenbo Hu, Jie Lu, Jingting Chen, Feng Li, Chenghang Shi, Xiaonan Shi, Jinchen Wang, Wei Huo  
