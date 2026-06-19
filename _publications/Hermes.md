@@ -5,6 +5,6 @@ permalink: /publication/Hermes
 date: 2026-06-18
 venue: 'ASE'
 paperurl: ''
-authors: 'Youlong Chen, Jie Lu, Mengna Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li'
+authors: 'Youlong Chen, Jie Lu, Mingtao Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li'
 ccfrank: 'CCF-A'
 ---
