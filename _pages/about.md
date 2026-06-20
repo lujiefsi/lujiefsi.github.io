@@ -100,11 +100,11 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 ### 2026
 
-- **Tracing the Invisible: Semantic Message Flow Discovery via Data Contracts in Real-World Distributed Systems**
+- **Tracing the Invisible: Semantic Message Flow Discovery via Data Contracts in Real-World Distributed Systems**  
   Youlong Chen, Jie Lu<sup>✉</sup>, Mingtao Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li<sup>✉</sup>  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'26)*
 
-- **THESEUS: Smart Web Crawling via Resource-Guided Semantic Modeling**
+- **THESEUS: Smart Web Crawling via Resource-Guided Semantic Modeling**  
   Yongheng Huang, Chenghang Shi, Wenxiao Yao, Jie Lu<sup>✉</sup>, Haofeng Li, Youlong Chen, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li<sup>✉</sup>  
   *ACM Conference on Computer and Communications Security (CCS'26)*
 
