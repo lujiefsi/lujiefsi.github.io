@@ -48,6 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: SHCRGuard is accepted by JSS 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: Hermes is accepted by ASE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2026: Theseus, a smart web crawler, is accepted by CCS 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026; CFL Reachability paper accepted by OOPSLA 2026</div>
@@ -100,6 +101,10 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 ### 2026
 
+- **SHCRGuard: Security Risk Analysis of Self-Hosted CI/CD Runners in GitHub Actions**
+  Pengfei Shi, Jiaqi Huang, Yifan Xu, Jinfu Chen, Jie Lu, Fangyuan Qi, Hanzhong Peng, Huashan Chen, Feng Liu  
+  *Journal of Systems and Software (JSS'26)*
+
 - **Tracing the Invisible: Semantic Message Flow Discovery via Data Contracts in Real-World Distributed Systems**  
   Youlong Chen, Jie Lu<sup>✉</sup>, Mingtao Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li<sup>✉</sup>  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'26)*
@@ -120,7 +125,7 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
   Chendong Yu, Yuekang Li, Yang Xiao, Jie Lu, Yeting Li, Defang Bo, Wei Huo  
   *EuroSys '26*
 
-- **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**  
+- **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**
   Kai Zhu, Haofeng Li, Kuihao Yan, Rongqing Wang, Jiaming Guo, Haoran Yang, Jie Lu, Lei Yu, Xiaoqi Jia, Chenkai Guo, Haichao Du, Qingjia Huang, Yamin Xie, Jing Tang  
   *International Conference on Software Engineering (ICSE'26)*
 
