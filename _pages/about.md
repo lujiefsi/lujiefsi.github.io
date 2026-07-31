@@ -48,6 +48,7 @@ I am an Associate Professor at The Institute of Computing Technology of the Chin
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> July 2026: SteadiCam is accepted by NDSS 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: SHCRGuard is accepted by JSS 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: Hermes is accepted by ASE 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> April 2026: Theseus, a smart web crawler, is accepted by CCS 2026</div>
@@ -98,6 +99,12 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 ## Selected Publications 📚
 
+
+### 2027
+
+- **Lights, Camera, Crash: Detecting Decoder Vulnerabilities in Video Conferencing Platforms**
+  Xiangru Liu, Jie Lu, Qingli Guo, Fangming Gu, Yingli Sun, Yue Xie, Lian Li, Kangjie Lu, Baoxu Liu, Xiaoqi Jia  
+  *Network and Distributed System Security Symposium (NDSS'27)*
 
 ### 2026
 
