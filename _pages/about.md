@@ -108,10 +108,6 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 ### 2026
 
-- **SHCRGuard: Security Risk Analysis of Self-Hosted CI/CD Runners in GitHub Actions**  
-  Pengfei Shi, Jiaqi Huang, Yifan Xu, Jinfu Chen, Jie Lu, Fangyuan Qi, Hanzhong Peng, Huashan Chen, Feng Liu  
-  *Journal of Systems and Software (JSS'26)*
-
 - **Tracing the Invisible: Semantic Message Flow Discovery via Data Contracts in Real-World Distributed Systems**  
   Youlong Chen, Jie Lu<sup>✉</sup>, Mingtao Huang, Chenghang Shi, Yongheng Huang, Haofeng Li, Dong Liu, Mengna Ma, Yong Liu, Qinfen Hao, Lian Li<sup>✉</sup>  
   *IEEE/ACM International Conference on Automated Software Engineering (ASE'26)*
