@@ -132,7 +132,7 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
   Chendong Yu, Yuekang Li, Yang Xiao, Jie Lu, Yeting Li, Defang Bo, Wei Huo  
   *EuroSys '26*
 
-- **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**
+- **LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval**  
   Kai Zhu, Haofeng Li, Kuihao Yan, Rongqing Wang, Jiaming Guo, Haoran Yang, Jie Lu, Lei Yu, Xiaoqi Jia, Chenkai Guo, Haichao Du, Qingjia Huang, Yamin Xie, Jing Tang  
   *International Conference on Software Engineering (ICSE'26)*
 
