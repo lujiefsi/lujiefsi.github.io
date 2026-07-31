@@ -102,13 +102,13 @@ For details, visit our [research group page](https://ict-pag.github.io/) or [app
 
 ### 2027
 
-- **Lights, Camera, Crash: Detecting Decoder Vulnerabilities in Video Conferencing Platforms**
+- **Lights, Camera, Crash: Detecting Decoder Vulnerabilities in Video Conferencing Platforms**  
   Xiangru Liu, Jie Lu, Qingli Guo, Fangming Gu, Yingli Sun, Yue Xie, Lian Li, Kangjie Lu, Baoxu Liu, Xiaoqi Jia  
   *Network and Distributed System Security Symposium (NDSS'27)*
 
 ### 2026
 
-- **SHCRGuard: Security Risk Analysis of Self-Hosted CI/CD Runners in GitHub Actions**
+- **SHCRGuard: Security Risk Analysis of Self-Hosted CI/CD Runners in GitHub Actions**  
   Pengfei Shi, Jiaqi Huang, Yifan Xu, Jinfu Chen, Jie Lu, Fangyuan Qi, Hanzhong Peng, Huashan Chen, Feng Liu  
   *Journal of Systems and Software (JSS'26)*
 
