@@ -44,7 +44,7 @@ redirect_from:
 
 # About Me 👋
 
-I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on the **reliability and security of cloud systems**. I develop techniques based on program analysis, log analysis, and large language models (LLMs) to detect, diagnose, and prevent vulnerabilities and failures in cloud software and infrastructure.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on the **reliability and security of cloud systems**. I combine program analysis and log analysis with LLM-based agents to detect, diagnose, and mitigate vulnerabilities and failures in cloud software and infrastructure.
 
 ## News 📰
 <div class="news-container">
@@ -81,17 +81,17 @@ function toggleNews(element) {
 
 ## Research Interests 🔬
 
-My research focuses on improving the **reliability and security of cloud systems**. To understand, detect, diagnose, and prevent vulnerabilities and failures in complex cloud software and infrastructure, I develop and apply:
+My research focuses on improving the **reliability and security of cloud systems**. I combine the following techniques to detect, diagnose, and mitigate vulnerabilities and failures in complex cloud software and infrastructure:
 
 - **Program Analysis**: Static and dynamic analysis techniques for finding security vulnerabilities and reliability bugs
 - **Log Analysis**: Runtime log analysis for failure diagnosis, anomaly detection, and system behavior understanding
-- **Large Language Models for Systems**: LLM-based techniques for automated analysis, reasoning, testing, and diagnosis of cloud systems
+- **LLM-based Agents for Systems**: Applying agentic AI to support automated reasoning, testing, failure diagnosis, and security analysis in cloud systems
 
 ---
 
 ## Recruiting 🎓
 
-I'm looking for motivated **PhD candidates** 🔍, **Master students** 📚, and **Research interns** 🌱 interested in the reliability and security of cloud systems and in applying program analysis, log analysis, or large language models to systems research.
+I'm looking for motivated **PhD candidates** 🔍, **Master students** 📚, and **Research interns** 🌱 interested in the reliability and security of cloud systems or in applying program analysis, log analysis, and LLM-based agents to systems research.
 
 If you are interested, please contact me directly: <img src="/images/contact.png" alt="Contact email address" width="240">
 
