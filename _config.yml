@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Jie Lu 陆杰"
 title_separator          : "-"
 name                     : &name "Jie Lu 陆杰"
-description              : &description "personal description"
-url                      : https://lujiefsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Academic homepage of Jie Lu, focusing on software and systems security and the security and reliability of cloud systems."
+url                      : https://lujie.ac.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lujiefsi/lujiefsi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &random128109
+  username               : "random128109"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jie Lu 陆杰"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor at Institute of Computing Technology of the Chinese Academy of Sciences"
+  bio              : "Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

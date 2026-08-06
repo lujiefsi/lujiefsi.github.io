@@ -8,17 +8,15 @@ redirect_from:
 ---
 
 <style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.3; }
-  100% { opacity: 1; }
-}
-
 .new-badge {
   display: inline-block;
-  color: #F7B32B;
-  font-weight: bold;
-  animation: blink 1.5s infinite;
+  color: #9a6700;
+  font-weight: 700;
+}
+
+.news-container {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
 }
 
 .news-container .news-item:nth-child(n+6) {
@@ -26,54 +24,57 @@ redirect_from:
 }
 
 .news-container.expanded .news-item {
-  display: block;
+  display: list-item;
 }
 
 .news-toggle {
+  appearance: none;
+  background: transparent;
+  border: 0;
   color: #0366d6;
   cursor: pointer;
-  margin-top: 10px;
   display: inline-block;
+  font: inherit;
   font-weight: 500;
+  margin-top: 0.5rem;
+  padding: 0;
 }
 
-.news-toggle:hover {
+.news-toggle:hover,
+.news-toggle:focus-visible {
   text-decoration: underline;
 }
 </style>
 
 # About Me 👋
 
-I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, particularly the security and reliability of cloud systems. I apply program analysis and log analysis, and more recently explore LLM-based agents, to detect and diagnose vulnerabilities and failures in complex software systems and cloud infrastructure.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, particularly the security and reliability of cloud systems. My work uses program analysis and log analysis and increasingly incorporates LLM-based agents to discover vulnerabilities and diagnose failures in complex software systems and cloud infrastructure.
 
 ## News 📰
-<div class="news-container">
-  <div class="news-item">* <span class="new-badge">NEW!</span> July 2026: SteadiCam is accepted by NDSS 2027</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: SHCRGuard is accepted by JSS 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: Hermes is accepted by ASE 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> April 2026: Theseus, a smart web crawler, is accepted by CCS 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> March 2026: LifeFuzz accepted by EuroSys 2026; SpecWeaver accepted by FSE 2026; CFL Reachability paper accepted by OOPSLA 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> December 2025: LoopSCC is accepted by ICSE 2026</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: The Study of Resource Injection Vulnerabilities is accepted by ASE 2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> August 2025: MoYe is accepted by OOPSLA 2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> July 2025: Won ACM SIGSOFT Distinguished Paper Award at Internetware 2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> June 2025: One paper is accepted by USENIX Security2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by CCS2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by FSE2025</div>
-  <div class="news-item">* <span class="new-badge">NEW!</span> April 2025: One paper is accepted by internetware2025</div>
-</div>
-<div class="news-toggle" onclick="toggleNews(this)">Show more news...</div>
+<ul id="news-list" class="news-container">
+  <li class="news-item"><span class="new-badge">NEW!</span> July 2026: SteadiCam was accepted to NDSS 2027.</li>
+  <li class="news-item"><span class="new-badge">NEW!</span> June 2026: SHCRGuard was accepted for publication in the Journal of Systems and Software (JSS).</li>
+  <li class="news-item"><span class="new-badge">NEW!</span> June 2026: Hermes was accepted to ASE 2026.</li>
+  <li class="news-item"><span class="new-badge">NEW!</span> April 2026: THESEUS was accepted to CCS 2026.</li>
+  <li class="news-item"><span class="new-badge">NEW!</span> March 2026: LifeFuzz was accepted to EuroSys 2026, SpecWeaver to FSE 2026, and our CFL-reachability paper to OOPSLA 2026.</li>
+  <li class="news-item">December 2025: LoopSCC was accepted to ICSE 2026.</li>
+  <li class="news-item">August 2025: Our paper on resource-injection vulnerabilities in Kubernetes was accepted to ASE 2025.</li>
+  <li class="news-item">August 2025: MoYe was accepted to OOPSLA 2025.</li>
+  <li class="news-item">July 2025: Our paper received an ACM SIGSOFT Distinguished Paper Award at Internetware 2025.</li>
+  <li class="news-item">June 2025: One of our papers was accepted to USENIX Security 2025.</li>
+  <li class="news-item">April 2025: One of our papers was accepted to CCS 2025.</li>
+  <li class="news-item">April 2025: One of our papers was accepted to FSE 2025.</li>
+  <li class="news-item">April 2025: One of our papers was accepted to Internetware 2025.</li>
+</ul>
+<button type="button" class="news-toggle" aria-expanded="false" aria-controls="news-list" onclick="toggleNews(this)">Show more news</button>
 
 <script>
-function toggleNews(element) {
-  const container = document.querySelector('.news-container');
-  container.classList.toggle('expanded');
-  
-  if (container.classList.contains('expanded')) {
-    element.textContent = 'Show fewer news...';
-  } else {
-    element.textContent = 'Show more news...';
-  }
+function toggleNews(button) {
+  const container = document.getElementById(button.getAttribute('aria-controls'));
+  const expanded = container.classList.toggle('expanded');
+
+  button.setAttribute('aria-expanded', String(expanded));
+  button.textContent = expanded ? 'Show less news' : 'Show more news';
 }
 </script>
 
@@ -81,17 +82,17 @@ function toggleNews(element) {
 
 ## Research Interests 🔬
 
-My research focuses on **software and systems security**, with particular emphasis on the security and reliability of cloud systems. I apply the following techniques to detect and diagnose vulnerabilities and failures in complex software systems and cloud infrastructure:
+My research focuses on **software and systems security**, with particular emphasis on the security and reliability of cloud systems. My work draws on the following techniques:
 
-- **Program Analysis**: Static and dynamic analysis techniques for finding security vulnerabilities and reliability bugs
-- **Log Analysis**: Runtime log analysis for failure diagnosis, anomaly detection, and system behavior understanding
-- **LLM-based Agents for Systems**: Applying agentic AI to support automated reasoning, testing, failure diagnosis, and security analysis in cloud systems
+- **Program Analysis**: Static and dynamic analyses for discovering security vulnerabilities and reliability bugs
+- **Log Analysis**: Runtime log analysis for diagnosing failures, detecting anomalies, and understanding system behavior
+- **LLM-based Agents for Systems**: Using LLM-based agents to support program understanding, security analysis, testing, and failure diagnosis
 
 ---
 
 ## Recruiting 🎓
 
-I'm looking for motivated **PhD candidates** 🔍, **Master students** 📚, and **Research interns** 🌱 interested in software and systems security, particularly the security and reliability of cloud systems, or in applying program analysis, log analysis, and LLM-based agents to systems research.
+I welcome inquiries from motivated prospective **PhD students**, **master's students**, and **research interns** interested in software and systems security, particularly cloud systems security and reliability. I am especially interested in students who want to apply program analysis, log analysis, or LLM-based agents to systems research.
 
 If you are interested, please contact me directly: <img src="/images/contact.png" alt="Contact email address" width="240">
 
@@ -99,6 +100,7 @@ If you are interested, please contact me directly: <img src="/images/contact.png
 
 ## Selected Publications 📚
 
+*✉ Corresponding author; 🏆 award-winning paper.*
 
 ### 2027
 
@@ -142,20 +144,19 @@ If you are interested, please contact me directly: <img src="/images/contact.png
   Chenghang Shi, Dongjie He, Haofeng Li, Jie Lu, Lian Li, and Jingling Xue  
   *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'25)*
 
-
 - **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency**  
   Xinyi Wang, Yeting Li, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, Yang Xiao, Feng Li, Wei Huo  
   *USENIX Security Symposium (USENIX Security'25)*
 
 - **Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields**  
-  Hao Zhang, Jian Liu<sup>✉</sup>, Jie Lu<sup>✉</sup>, Shaomin Chen, Tianshuo Han, Bolun Zhang,  Xiaorui Gong  
+  Hao Zhang, Jian Liu<sup>✉</sup>, Jie Lu<sup>✉</sup>, Shaomin Chen, Tianshuo Han, Bolun Zhang, Xiaorui Gong<br>
   *ACM Conference on Computer and Communications Security (CCS'25)*
   
 - **VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis**  
   Liqing Cao, Haofeng Li, Chenghang Shi, Jie Lu, Haining Meng, Lian Li, Jingling Xue  
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'25)*
 
-- **SLVHound: Static Detection of Session Lingering Vulnerabilities in Modern Java Web Applications**🏆    
+- **SLVHound: Static Detection of Session Lingering Vulnerabilities in Modern Java Web Applications** 🏆<br>
   Haining Meng, Jie Lu<sup>✉</sup>, Yongheng Huang, Lian Li<sup>✉</sup>  
   *The 16th International Conference on Internetware (Internetware'25)*
 
@@ -190,7 +191,7 @@ If you are interested, please contact me directly: <img src="/images/contact.png
   Chendong Yu, Yang Xiao, Jie Lu, Yuekang Li, Yeting Li, L. Li, Y. Dong, J. Wang, J. Shi, D. Bo, W. Huo  
   *Network and Distributed System Security Symposium (NDSS'24)*
 - **AutoWeb: Automatically Inferring Web Framework Semantics via Configuration Mutation**  
-  Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, lin Gao  
+  Haining Meng, Haofeng Li, Jie Lu, Chenghang Shi, Liqing Cao, Lian Li, Lin Gao<br>
   *International Conference on Engineering of Complex Computer Systems (ICECCS'24)*
 
 ### 2023
@@ -200,7 +201,7 @@ If you are interested, please contact me directly: <img src="/images/contact.png
 
 ### 2022
 - **Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems** 🏆  
-  Jie Lu, Haofeng Li, Chen Liu, Lian li, Kun Cheng  
+  Jie Lu, Haofeng Li, Chen Liu, Lian Li, Kun Cheng<br>
   *Best Paper Honorable Mention*  
   *ACM Conference on Computer and Communications Security (CCS'22)*
 - **Generic Sensitivity: Customizing Context-Sensitive Pointer Analysis for Generics**  
@@ -221,7 +222,7 @@ If you are interested, please contact me directly: <img src="/images/contact.png
   Ting Yuan, Guangwei Li, Jie Lu<sup>✉</sup>, Chen Liu, Lian Li<sup>✉</sup>, Jingling Xue  
   *International Symposium on Code Generation and Optimization (CGO'21)*
 
-### 2018-2020
+### 2018–2020
 - **CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement**  
   Jie Lu, Feng Li, Chen Liu, Lian Li, Xiaobing Feng, Jingling Xue  
   *IEEE Transactions on Software Engineering (TSE'20)*
@@ -232,7 +233,7 @@ If you are interested, please contact me directly: <img src="/images/contact.png
   Jie Lu, Liu Chen, Lian Li and Xiaobing Feng  
   *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'19)*
 - **CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining**  
-  Jie Lu, Feng Li, Lian Li and Xiaobing Feng   
+  Jie Lu, Feng Li, Lian Li and Xiaobing Feng<br>
   *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'18)*
 
 [📚 View Complete Publication List](https://lujie.ac.cn/publications/)
