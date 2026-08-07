@@ -44,7 +44,7 @@ redirect_from:
 
 # About Me 👋
 
-I am an Associate Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include software security and program analysis, with a focus on improving software reliability and security through advanced program analysis techniques.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, particularly the security and reliability of cloud systems. I use program analysis, log analysis, and LLM-based agents to discover vulnerabilities and diagnose failures in complex software systems and cloud infrastructure.
 
 ## News 📰
 <div class="news-container">
@@ -81,19 +81,19 @@ function toggleNews(element) {
 
 ## Research Interests 🔬
 
-My research focuses on:
+My research focuses on **software and systems security**, with particular emphasis on the security and reliability of cloud systems. My work draws on the following techniques:
 
-- **Software Security**: Vulnerability detection and prevention in open-source software
-- **Program Analysis**: Static/dynamic analysis techniques, context-sensitive pointer analysis
-- **Cloud Systems**: Distributed system security, crash-recovery and concurrency bug detection
+- **Program Analysis**: Static and dynamic analyses for discovering security vulnerabilities and reliability bugs
+- **Log Analysis**: Runtime log analysis for diagnosing failures, detecting anomalies, and understanding system behavior
+- **LLM-based Agents for Systems**: Using LLM-based agents to support program understanding, security analysis, testing, and failure diagnosis
 
 ---
 
 ## Recruiting 🎓
 
-I'm looking for motivated **PhD candidates** 🔍, **Master students** 📚, and **Research interns** 🌱 interested in software security and program analysis.
+I welcome inquiries from motivated prospective **PhD students**, **master's students**, and **research interns** interested in software and systems security, particularly cloud systems security and reliability. I am especially interested in students who want to apply program analysis, log analysis, or LLM-based agents to systems research.
 
-For details, visit our [research group page](https://ict-pag.github.io/) or [application information](https://ict-pag.github.io/joining/), or contact me directly.
+If you are interested, please contact me directly: <img src="/images/contact.png" alt="Contact email address" width="240">
 
 ---
 
