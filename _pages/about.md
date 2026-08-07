@@ -44,7 +44,7 @@ redirect_from:
 
 # About Me 👋
 
-I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, particularly the security and reliability of cloud systems. I use program analysis, log analysis, and LLM-based agents to discover vulnerabilities and diagnose failures in complex software systems and cloud infrastructure.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, with a particular interest in the security and reliability of cloud and distributed systems. I combine static program analysis, dynamic testing through fuzzing and fault injection, and log-based runtime diagnosis to uncover vulnerabilities, diagnose failures, and improve system resilience.
 
 ## News 📰
 <div class="news-container">
@@ -81,19 +81,18 @@ function toggleNews(element) {
 
 ## Research Interests 🔬
 
-My research focuses on **software and systems security**, with particular emphasis on the security and reliability of cloud systems. My work draws on the following techniques:
+My research spans two closely related themes:
 
-- **Program Analysis**: Static and dynamic analyses for discovering security vulnerabilities and reliability bugs
-- **Log Analysis**: Runtime log analysis for diagnosing failures, detecting anomalies, and understanding system behavior
-- **LLM-based Agents for Systems**: Using LLM-based agents to support program understanding, security analysis, testing, and failure diagnosis
+- **Software and Systems Security**: Discovering and mitigating vulnerabilities in complex software, cloud platforms, and systems infrastructure
+- **Cloud and Distributed Systems Reliability**: Diagnosing failures and improving resilience under concurrency, crash recovery, and operational faults
 
 ---
 
 ## Recruiting 🎓
 
-I welcome inquiries from motivated prospective **PhD students**, **master's students**, and **research interns** interested in software and systems security, particularly cloud systems security and reliability. I am especially interested in students who want to apply program analysis, log analysis, or LLM-based agents to systems research.
+I welcome inquiries from motivated prospective **PhD students**, **master's students**, and **research interns** interested in software and systems security or cloud and distributed systems reliability. Relevant methods include static program analysis, dynamic testing through fuzzing and fault injection, and log-based runtime diagnosis.
 
-If you are interested, please contact me directly: <img src="/images/contact.png" alt="Contact email address" width="240">
+If you are interested, please contact me directly: <img src="/images/contact-email.jpg" alt="Contact email address" width="240">
 
 ---
 
