@@ -50,7 +50,7 @@
         {% elsif post.collection == 'publications' %}
           <p style="font-family: 'Segoe UI', Arial, sans-serif; margin-bottom: 0.2em; margin-top: 0.5em;">{{ post.authors }}</p>
           <p style="font-family: 'Segoe UI', Arial, sans-serif; font-style: italic; margin-bottom: 0.2em;">
-            {{ post.venue }}{% if post.ccfrank %}, {{ post.ccfrank }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {{ post.venue }}{% if post.ccfrank %}, {{ post.ccfrank }}{% endif %}, {% if post.venue_year %}{{ post.venue_year }}{% else %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
           </p>
         {% elsif post.collection == 'prof' %}
           <p style="font-family: 'Segoe UI', Arial, sans-serif; margin-bottom: 0.2em; margin-top: 0.5em;">{{ post.authors }}</p>
