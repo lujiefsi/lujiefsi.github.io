@@ -44,7 +44,7 @@ redirect_from:
 
 # About Me 👋
 
-I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security**, with a particular interest in the security and reliability of cloud and distributed systems. I combine static program analysis, dynamic testing through fuzzing and fault injection, and log-based runtime diagnosis to uncover vulnerabilities, diagnose failures, and improve system resilience.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research focuses on **software and systems security and reliability**, with a particular interest in the security and reliability of cloud and distributed systems. I combine static program analysis, dynamic testing through fuzzing and fault injection, and log-based runtime diagnosis to uncover vulnerabilities, diagnose failures, and improve system resilience.
 
 ## News 📰
 <div class="news-container">
@@ -83,7 +83,7 @@ function toggleNews(element) {
 
 My research spans two closely related themes:
 
-- **Software and Systems Security and Reliability**: Discovering and mitigating vulnerabilities, diagnosing failures, and improving resilience in complex software and systems infrastructure
+- **Software and Systems Security**: Discovering and mitigating vulnerabilities in complex software, cloud platforms, and systems infrastructure
 - **Cloud and Distributed Systems Reliability**: Diagnosing failures and improving resilience under concurrency, crash recovery, and operational faults
 
 ---
