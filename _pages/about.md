@@ -83,7 +83,7 @@ function toggleNews(element) {
 
 My research spans two closely related themes:
 
-- **Software and Systems Security**: Discovering and mitigating vulnerabilities in complex software, cloud platforms, and systems infrastructure
+- **Software and Systems Security and Reliability**: Discovering and mitigating vulnerabilities, diagnosing failures, and improving resilience in complex software and systems infrastructure
 - **Cloud and Distributed Systems Reliability**: Diagnosing failures and improving resilience under concurrency, crash recovery, and operational faults
 
 ---
