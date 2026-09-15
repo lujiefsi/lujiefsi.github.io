@@ -48,6 +48,8 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> September 11, 2026: MLOA is accepted by IEEE S&P 2027</div>
+  <div class="news-item">* <span class="new-badge">NEW!</span> September 10, 2026: Qoufflé is accepted by CGO 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> July 2026: SteadiCam is accepted by NDSS 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: SHCRGuard is accepted by JSS 2026</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> June 2026: Hermes is accepted by ASE 2026</div>
@@ -100,6 +102,14 @@ If you are interested, please contact me directly: <img src="/images/contact-ema
 
 
 ### 2027
+
+- **Level By Level: Practical Indirect Call Resolution for Stripped Binaries via On-Demand Multi-Layer Offset Analysis**<br>
+  Jian Wang, Chenghang Shi, Feng Li, Lanlan Zhan, Jinchen Wang, Jie Lu, Yiming Liu, Jianhua Zhou, Wenbo Hu, Yeting Li, Wei Huo<br>
+  *IEEE Symposium on Security and Privacy (S&P'27)*
+
+- **Tool: Qoufflé: An Extensible Compiler from CodeQL to Soufflé Datalog**<br>
+  Mingtao Huang, Haofeng Li, Qihang Wan, Jie Lu, Lian Li, Jingling Xue<br>
+  *International Symposium on Code Generation and Optimization (CGO'27)*
 
 - **Lights, Camera, Crash: Detecting Decoder Vulnerabilities in Video Conferencing Platforms**  
   Xiangru Liu, Jie Lu, Qingli Guo, Fangming Gu, Yingli Sun, Yue Xie, Lian Li, Kangjie Lu, Baoxu Liu, Xiaoqi Jia  
