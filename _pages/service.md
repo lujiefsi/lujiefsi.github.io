@@ -10,6 +10,10 @@ author_profile: true
 * ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2027
 * Asia-Pacific Symposium on Internetware (Internetware), 2024
 
+## External Reviewer
+
+* ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2027
+
 ## Journal Reviewer
 
 * IEEE Transactions on Software Engineering (TSE)
