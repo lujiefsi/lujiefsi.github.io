@@ -48,6 +48,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 
 ## News 📰
 <div class="news-container">
+  <div class="news-item">* <span class="new-badge">NEW!</span> October 2026: Invited to serve on the Program Committee of CCS 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> September 11, 2026: MLOA is accepted by IEEE S&P 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> September 10, 2026: Qoufflé is accepted by CGO 2027</div>
   <div class="news-item">* <span class="new-badge">NEW!</span> July 2026: SteadiCam is accepted by NDSS 2027</div>
