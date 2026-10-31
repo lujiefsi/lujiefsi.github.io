@@ -7,7 +7,6 @@ author_profile: true
 ## Program Committee
 
 * ACM Conference on Computer and Communications Security (CCS), 2026, 2027
-* ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2027
 * Asia-Pacific Symposium on Internetware (Internetware), 2024
 
 ## External Reviewer
