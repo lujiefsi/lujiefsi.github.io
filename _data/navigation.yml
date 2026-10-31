@@ -26,6 +26,9 @@ main:
   
   - title: "Awards"
     url: /awards/
+
+  - title: "Service"
+    url: /service/
     
   - title: "Scholar's Corner"
     url: /scholars-corner/
